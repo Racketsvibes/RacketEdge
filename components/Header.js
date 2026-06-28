@@ -1,10 +1,16 @@
 'use client';
 
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from 'next/link';
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
+  const [currentDate, setCurrentDate] = useState('');
+
+  useEffect(() => {
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    setCurrentDate(new Date().toLocaleDateString('en-US', options));
+  }, []);
 
   const toggleMobileMenu = () => {
     setMobileMenuOpen(!mobileMenuOpen);
@@ -18,9 +24,13 @@ export default function Header() {
     <header className="site-header">
       {/* Top Header Row: Large Centered Logo */}
       <div className="header-top-row">
+        <div className="header-date-box">
+          <span className="header-date">{currentDate}</span>
+        </div>
         <Link href="/" className="logo-link" onClick={closeMobileMenu}>
           <img src="/logo.png" alt="RacketEdge Logo" className="site-logo" />
         </Link>
+        <div className="header-top-right-spacer"></div>
       </div>
 
       {/* Bottom Header Row: Navigation Links & Social Media */}
