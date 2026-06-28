@@ -170,7 +170,7 @@ export default function Home() {
                 <h4>Get 30 Days Free Trial on Audible</h4>
                 <p>Listen to hundreds of sports memoirs and coaching audiobooks on the court.</p>
                 <a 
-                  href="https://amzn.to/3O86Xkw" 
+                  href="https://amzn.to/4g6KtfB" 
                   target="_blank" 
                   rel="nofollow sponsored" 
                   className="promo-cta-btn"
@@ -194,7 +194,7 @@ export default function Home() {
                 <h4>Up to 35% Off Premium Rackets</h4>
                 <p>Check daily discounts on Babolat Pure Aero, Wilson Blade, and Head Speed frames.</p>
                 <a 
-                  href="https://amzn.to/3O86Xkw" 
+                  href="https://amzn.to/4uZHTvq" 
                   target="_blank" 
                   rel="nofollow sponsored" 
                   className="promo-cta-btn"
