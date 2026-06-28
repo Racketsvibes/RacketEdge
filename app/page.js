@@ -154,27 +154,54 @@ export default function Home() {
             ))}
           </div>
 
-          {/* Promo Banner Box */}
-          <div className="homepage-promo-box">
-            <div className="promo-image-wrapper">
-              <img 
-                src="/wp-content/uploads/2026/05/Amazon-Audible.webp" 
-                alt="Audible Free Trial" 
-                className="promo-image" 
-              />
+          {/* Sidebar Promo Container */}
+          <div className="badminton-sidebar-col">
+            {/* Promo Card 1: Audible */}
+            <div className="homepage-promo-box">
+              <div className="promo-image-wrapper">
+                <img 
+                  src="/wp-content/uploads/2026/05/Amazon-Audible.webp" 
+                  alt="Audible Free Trial" 
+                  className="promo-image" 
+                />
+              </div>
+              <div className="promo-inner">
+                <span className="promo-tag">Recommended Sponsor</span>
+                <h4>Get 30 Days Free Trial on Audible</h4>
+                <p>Listen to hundreds of sports memoirs and coaching audiobooks on the court.</p>
+                <a 
+                  href="https://amzn.to/3O86Xkw" 
+                  target="_blank" 
+                  rel="nofollow sponsored" 
+                  className="promo-cta-btn"
+                >
+                  Claim Free Trial
+                </a>
+              </div>
             </div>
-            <div className="promo-inner">
-              <span className="promo-tag">Recommended Sponsor</span>
-              <h4>Get 30 Days Free Trial on Audible</h4>
-              <p>Listen to hundreds of sports memoirs and coaching audiobooks on the court.</p>
-              <a 
-                href="https://amzn.to/3O86Xkw" 
-                target="_blank" 
-                rel="nofollow sponsored" 
-                className="promo-cta-btn"
-              >
-                Claim Free Trial
-              </a>
+
+            {/* Promo Card 2: Racket Deals */}
+            <div className="homepage-promo-box racket-deals-promo">
+              <div className="promo-image-wrapper">
+                <img 
+                  src="/wp-content/uploads/2026/05/best-babolat-Rackets.webp" 
+                  alt="Tennis Racket Deals" 
+                  className="promo-image" 
+                />
+              </div>
+              <div className="promo-inner">
+                <span className="promo-tag">Exclusive Offer</span>
+                <h4>Up to 35% Off Premium Rackets</h4>
+                <p>Check daily discounts on Babolat Pure Aero, Wilson Blade, and Head Speed frames.</p>
+                <a 
+                  href="https://amzn.to/3O86Xkw" 
+                  target="_blank" 
+                  rel="nofollow sponsored" 
+                  className="promo-cta-btn"
+                >
+                  Shop Racket Deals
+                </a>
+              </div>
             </div>
           </div>
         </div>

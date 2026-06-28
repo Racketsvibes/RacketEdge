@@ -100,7 +100,7 @@ a {
 }
 
 .site-logo {
-  height: 130px;
+  height: 200px;
   width: auto;
   display: block;
   transition: height 0.3s ease;
@@ -257,7 +257,7 @@ a {
 
 @media (max-width: 768px) {
   .site-logo {
-    height: 75px;
+    height: 110px;
   }
   
   .header-top-row {
@@ -656,6 +656,12 @@ a {
   gap: 24px;
 }
 
+.badminton-sidebar-col {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
 @media (max-width: 600px) {
   .badminton-posts-col {
     grid-template-columns: 1fr;
@@ -754,6 +760,14 @@ a {
   overflow: hidden;
   box-shadow: var(--card-shadow);
   height: fit-content;
+}
+
+.racket-deals-promo {
+  background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%) !important;
+}
+
+.racket-deals-promo .promo-cta-btn {
+  color: #0f172a !important;
 }
 
 .promo-image-wrapper {
@@ -1651,7 +1665,7 @@ a {
 }
 
 .footer-logo {
-  height: 80px;
+  height: 120px;
   width: auto;
   margin-bottom: 20px;
   display: block;
