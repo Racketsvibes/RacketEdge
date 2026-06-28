@@ -266,7 +266,7 @@ export default function Home() {
           <span className="sticky-badge">Amazon Deals</span>
           <p className="sticky-text">Amazon Prime Membership includes exclusive discounts on tennis rackets and gear.</p>
           <a 
-            href="https://amzn.to/3O86Xkw" 
+            href="https://amzn.to/4eSMPwh" 
             target="_blank" 
             rel="nofollow sponsored" 
             className="sticky-cta-btn"
