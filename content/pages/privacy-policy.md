@@ -9,60 +9,58 @@ focusKeyword: ""
 category: "General"
 ---
 
-nnn# Privacy Policy
+# Privacy Policy
 
-nnnn*Last Updated: January 24, 2026*
+*Last Updated: January 24, 2026*
 
-nnnnnnnnnnAt **RacketEdge** (accessible from [https://racketedge.com](/)), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by RacketEdge and how we use it.
+At **RacketEdge** (accessible from [https://racketedge.com](/)), one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by RacketEdge and how we use it.
 
-nnnnIf you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-nnnn## **Who We Are**
+## **Who We Are**
 
-nnnnOur website address is: **[https://racketedge.com](/)**. The site is managed by **Chris Davies** and the [RacketEdge team](/posts/about-us).
+Our website address is: **[https://racketedge.com](/)**. The site is managed by **Chris Davies** and the [RacketEdge team](/posts/about-us).
 
-nnnn### **Comments**
+### **Comments**
 
-nnnnWhen visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+When visitors leave comments on the site, we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
 
-nnnnAn anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. After approval of your comment, your profile picture is visible to the public in the context of your comment.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. After approval of your comment, your profile picture is visible to the public in the context of your comment.
 
-nnnn### **Media**
+### **Media**
 
-nnnnIf you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
+If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.
 
-nnnn### **Cookies**
+### **Cookies**
 
-nnnnIf you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
+If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.
 
-nnnn### **Amazon Associates & Affiliate Disclosure**
+### **Amazon Associates & Affiliate Disclosure**
 
-nnnnRacketEdge is a participant in the **Amazon Services LLC Associates Program**, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
+RacketEdge is a participant in the **Amazon Services LLC Associates Program**, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-nnnn
-n- **How this affects you:** When you click on a link to a product on our site (e.g., a tennis racket review), Amazon places a specialized cookie on your browser to track the referral. This cookie allows Amazon to know that you came from RacketEdge so they can pay us a small commission. This happens at **no extra cost to you**.n
-nnnn### **Embedded Content from Other Websites<sup></sup><sup></sup>**
+- **How this affects you:** When you click on a link to a product on our site (e.g., a tennis racket review), Amazon places a specialized cookie on your browser to track the referral. This cookie allows Amazon to know that you came from RacketEdge so they can pay us a small commission. This happens at **no extra cost to you**.
 
-nnnnArticles on this site may include embedded content (e.g. videos, charts, etc.). Embedded content from other websites behaves in the <sup></sup>exact same way as if the visitor has visited the other website.<sup></sup><sup></sup>
+### **Embedded Content from Other Websites<sup></sup><sup></sup>**
 
-nnnnThese websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your i<sup></sup>nteraction with that embedded content, including tracking your interaction with the embedded content if you have an account a<sup></sup>nd are logged in to that website.<sup></sup>
+Articles on this site may include embedded content (e.g. videos, charts, etc.). Embedded content from other websites behaves in the <sup></sup>exact same way as if the visitor has visited the other website.<sup></sup><sup></sup>
 
-nnnn### **Log Files<sup></sup>**
+These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your i<sup></sup>nteraction with that embedded content, including tracking your interaction with the embedded content if you have an account a<sup></sup>nd are logged in to that website.<sup></sup>
 
-nnnnRacketEdge follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this as a part of hosting services' anal<sup></sup>ytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable.
+### **Log Files<sup></sup>**
 
-nnnn### **How Long We Retain Your Data**
+RacketEdge follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this as a part of hosting services' anal<sup></sup>ytics. The information collected by log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable.
 
-nnnnIf you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
+### **How Long We Retain Your Data**
 
-nnnn### **What Rights You Have Over Your Data**
+If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.
 
-nnnnIf you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
+### **What Rights You Have Over Your Data**
 
-nnnn### **Contact Us**
+If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.
 
-nnnnIf you have any questions about this Privacy Policy, you can [contact us](/posts/contact-us) directly:
+### **Contact Us**
 
-nnnn
-n- **By Email:** chris@racketedge.comn
-n
+If you have any questions about this Privacy Policy, you can [contact us](/posts/contact-us) directly:
+
+- **By Email:** chris@racketedge.com

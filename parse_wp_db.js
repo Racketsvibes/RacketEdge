@@ -81,7 +81,11 @@ function parseSqlValues(valuesStr) {
                     const c = valuesStr[i];
                     if (c === '\\') {
                         if (i + 1 < n) {
-                            valChars.push(valuesStr[i + 1]);
+                            const next = valuesStr[i + 1];
+                            if (next === 'n') valChars.push('\n');
+                            else if (next === 'r') valChars.push('\r');
+                            else if (next === 't') valChars.push('\t');
+                            else valChars.push(next);
                             i += 2;
                         } else {
                             valChars.push(c);
@@ -446,7 +450,31 @@ function runMigration() {
         const termsList = postTermsMap[pid] || [];
         const categories = termsList.filter(t => t.taxonomy === 'category').map(t => t.name);
         const tags = termsList.filter(t => t.taxonomy === 'post_tag').map(t => t.name);
-        const category = categories.length > 0 ? categories[0] : "General";
+        
+        let category = "General";
+        const titleLower = title.toLowerCase();
+        if (titleLower.includes("schläger") || titleLower.includes("tennisschläger")) {
+            category = "Tennisschläger";
+        } else if (titleLower.includes("badminton")) {
+            category = "Badminton";
+        } else if (titleLower.includes("racket") || titleLower.includes("racquet") || titleLower.includes("pure strike") || titleLower.includes("gravity mp") || titleLower.includes("speed mp") || titleLower.includes("ezone") || titleLower.includes("blade 98") || titleLower.includes("pro staff")) {
+            category = "Tennis Rackets";
+        } else if (titleLower.includes("string") || titleLower.includes("strings")) {
+            category = "Tennis Strings";
+        } else if (titleLower.includes("shoe") || titleLower.includes("shoes")) {
+            category = "Tennis Shoes";
+        } else if (titleLower.includes("bag") || titleLower.includes("bags")) {
+            category = "Tennis Bags";
+        } else if (titleLower.includes("ball machine") || titleLower.includes("ball machines")) {
+            category = "Tennis Ball Machines";
+        } else if (titleLower.includes("rules") || titleLower.includes("court") || titleLower.includes("scoring") || titleLower.includes("what is") || titleLower.includes("how do") || titleLower.includes("types of") || titleLower.includes("fastest-surface") || titleLower.includes("let-rule") || titleLower.includes("love-in-tennis") || titleLower.includes("ad-court") || titleLower.includes("how fast") || titleLower.includes("tennis-organizations") || titleLower.includes("net height") || titleLower.includes("dimensions") || titleLower.includes("set in") || titleLower.includes("let in") || titleLower.includes("love in") || titleLower.includes("ad court")) {
+            category = "Tennis Guides";
+        } else {
+            const originalCat = categories.find(c => c !== "Uncategorized");
+            if (originalCat) {
+                category = originalCat;
+            }
+        }
         
         // Featured image
         let featuredImage = "";
@@ -527,6 +555,39 @@ function runMigration() {
         fs.mkdirSync(path.dirname(destUploads), { recursive: true });
         fs.cpSync(srcUploads, destUploads, { recursive: true });
         console.log("Media copy completed!");
+        
+        // Clean up obfuscated media directory hashes (e.g. 2026/021074d9c1/ -> 2026/02/)
+        console.log("Cleaning up obfuscated media paths...");
+        const years = fs.readdirSync(destUploads);
+        for (const year of years) {
+            const yearPath = path.join(destUploads, year);
+            if (!fs.statSync(yearPath).isDirectory()) continue;
+            if (!/^\d{4}$/.test(year)) continue;
+            
+            const subdirs = fs.readdirSync(yearPath);
+            for (const subdir of subdirs) {
+                const subdirPath = path.join(yearPath, subdir);
+                if (!fs.statSync(subdirPath).isDirectory()) continue;
+                
+                const match = subdir.match(/^(\d{2})[a-f0-9]+$/);
+                if (match) {
+                    const month = match[1];
+                    const targetMonthPath = path.join(yearPath, month);
+                    if (!fs.existsSync(targetMonthPath)) {
+                        fs.mkdirSync(targetMonthPath, { recursive: true });
+                    }
+                    
+                    const files = fs.readdirSync(subdirPath);
+                    for (const file of files) {
+                        const srcFile = path.join(subdirPath, file);
+                        const destFile = path.join(targetMonthPath, file);
+                        fs.renameSync(srcFile, destFile);
+                    }
+                    fs.rmdirSync(subdirPath);
+                }
+            }
+        }
+        console.log("Media path cleanup completed successfully!");
     } else {
         console.log("Warning: No media uploads found in 'extracted/wp-content/uploads' or 'extracted/uploads'.");
     }
