@@ -100,7 +100,7 @@ a {
 }
 
 .site-logo {
-  height: 80px;
+  height: 130px;
   width: auto;
   display: block;
   transition: height 0.3s ease;
@@ -257,7 +257,7 @@ a {
 
 @media (max-width: 768px) {
   .site-logo {
-    height: 48px;
+    height: 75px;
   }
   
   .header-top-row {
@@ -640,32 +640,26 @@ a {
 /* Badminton section styles */
 .badminton-grid {
   display: grid;
-  grid-template-columns: 2fr 1.5fr 1.2fr;
+  grid-template-columns: 2.7fr 1.3fr;
   gap: 32px;
 }
 
 @media (max-width: 992px) {
   .badminton-grid {
-    grid-template-columns: 1fr 1fr;
-  }
-  .homepage-promo-box {
-    grid-column: span 2;
-  }
-}
-
-@media (max-width: 768px) {
-  .badminton-grid {
     grid-template-columns: 1fr;
-  }
-  .homepage-promo-box {
-    grid-column: span 1;
   }
 }
 
 .badminton-posts-col {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
   gap: 24px;
+}
+
+@media (max-width: 600px) {
+  .badminton-posts-col {
+    grid-template-columns: 1fr;
+  }
 }
 
 .badminton-main-card {
@@ -754,20 +748,34 @@ a {
   background: linear-gradient(135deg, #15803d 0%, #166534 100%);
   color: #ffffff;
   border-radius: var(--radius-md);
-  padding: 24px;
   border: 1px solid var(--border-color);
   display: flex;
   flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
+  overflow: hidden;
   box-shadow: var(--card-shadow);
+  height: fit-content;
+}
+
+.promo-image-wrapper {
+  width: 100%;
+  aspect-ratio: 16/10;
+  overflow: hidden;
+  background-color: var(--bg-tertiary);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.promo-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
 .promo-inner {
+  padding: 24px;
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
 }
 
 .promo-tag {
@@ -1643,7 +1651,7 @@ a {
 }
 
 .footer-logo {
-  height: 48px;
+  height: 80px;
   width: auto;
   margin-bottom: 20px;
   display: block;

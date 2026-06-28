@@ -133,7 +133,7 @@ export default function Home() {
         <h3 className="section-heading-border">Badminton</h3>
         <div className="badminton-grid">
           <div className="badminton-posts-col">
-            {badmintonArticles.slice(0, 2).map((post) => (
+            {badmintonArticles.slice(0, 4).map((post) => (
               <article key={post.slug} className="badminton-main-card">
                 <Link href={`/posts/${post.slug}`}>
                   <div className="badminton-img-wrapper">
@@ -141,6 +141,7 @@ export default function Home() {
                   </div>
                 </Link>
                 <div className="badminton-content">
+                  <span className="category-badge-small">{post.category}</span>
                   <h4 className="badminton-title">
                     <Link href={`/posts/${post.slug}`}>{post.title}</Link>
                   </h4>
@@ -153,24 +154,15 @@ export default function Home() {
             ))}
           </div>
 
-          <div className="badminton-subposts-col">
-            {badmintonArticles.slice(2, 4).map((post) => (
-              <div key={post.slug} className="badminton-list-item">
-                <Link href={`/posts/${post.slug}`} className="badminton-list-thumb">
-                  <img src={post.featuredImage || '/logo.png'} alt={post.title} />
-                </Link>
-                <div className="badminton-list-info">
-                  <h5><Link href={`/posts/${post.slug}`}>{post.title}</Link></h5>
-                  <span className="badminton-date">
-                    {new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}
-                  </span>
-                </div>
-              </div>
-            ))}
-          </div>
-
           {/* Promo Banner Box */}
           <div className="homepage-promo-box">
+            <div className="promo-image-wrapper">
+              <img 
+                src="/wp-content/uploads/2026/05/Amazon-Audible.webp" 
+                alt="Audible Free Trial" 
+                className="promo-image" 
+              />
+            </div>
             <div className="promo-inner">
               <span className="promo-tag">Recommended Sponsor</span>
               <h4>Get 30 Days Free Trial on Audible</h4>
@@ -192,7 +184,7 @@ export default function Home() {
       <section className="homepage-section">
         <h3 className="section-heading-border">Tennis Gears &amp; Equipment</h3>
         <div className="tennis-gears-grid">
-          {tennisGearArticles.slice(0, 3).map((post) => (
+          {tennisGearArticles.slice(0, 6).map((post) => (
             <article key={post.slug} className="gear-card">
               <Link href={`/posts/${post.slug}`} className="gear-img-link">
                 <div className="gear-img-wrapper">
