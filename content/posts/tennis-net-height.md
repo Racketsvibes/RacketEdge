@@ -136,12 +136,20 @@ Whether you're perfecting a crosscourt shot or switching between racket sports, 
 
 ### **How can I measure the height of a tennis net?**
 
-It's simple! Grab a measuring tape, go to the center, where you will find a white band, and measure up and down. Alternatively, use measuring sticks or mark your racket to measure. We recommend keeping tape in your bag, just in case.### **How do I adjust the height of a tennis net?**
+It's simple! Grab a measuring tape, go to the center, where you will find a white band, and measure up and down. Alternatively, use measuring sticks or mark your racket to measure. We recommend keeping tape in your bag, just in case.
 
-It’s Easy! Pull below or above the metal buckle to lower or raise the net. It’s at the center where the white straps are. Quality straps work best; weather can affect them, so adjust regularly. If needed, look for a reel at the post or contact local authorities for help.### **Is the tennis net lower in wheelchair tennis?**
+### **How do I adjust the height of a tennis net?**
 
-No changes! Wheelchair tennis uses the same [court dimensions](/posts/tennis-court-dimensions) and net height as conventional tennis, with standard balls and rackets.### **Is the tennis net lower in women's tennis?**
+It’s Easy! Pull below or above the metal buckle to lower or raise the net. It’s at the center where the white straps are. Quality straps work best; weather can affect them, so adjust regularly. If needed, look for a reel at the post or contact local authorities for help.
 
-No! Both men and women play with a standard net height of 42 inches at the posts and 36 inches at the center.### **What's the size of a tennis court?**
+### **Is the tennis net lower in wheelchair tennis?**
+
+No changes! Wheelchair tennis uses the same [court dimensions](/posts/tennis-court-dimensions) and net height as conventional tennis, with standard balls and rackets.
+
+### **Is the tennis net lower in women's tennis?**
+
+No! Both men and women play with a standard net height of 42 inches at the posts and 36 inches at the center.
+
+### **What's the size of a tennis court?**
 
 A standard tennis court is 78 ft x 36 ft, totaling 2,808 sq ft. For singles matches, it's narrower at 78 ft x 27 ft or 2,106 sq ft.

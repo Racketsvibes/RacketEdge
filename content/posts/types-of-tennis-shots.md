@@ -169,11 +169,17 @@ Here is your complete guide to the 11 essential types of tennis shots, including
 
 ### **What are the 4 main Tennis shots?**
 
-The four foundational shots in tennis are the **Serve**, the **Forehand**, the **Backhand**, and the **Volley**. Mastering these four allows you to play a complete match at any level. <a href="https://en.wikipedia.org/wiki/Tennis_shot" target="_blank">Wikipedia</a> ### **What is the hardest shot to hit in tennis?**
+The four foundational shots in tennis are the **Serve**, the **Forehand**, the **Backhand**, and the **Volley**. Mastering these four allows you to play a complete match at any level. <a href="https://en.wikipedia.org/wiki/Tennis_shot" target="_blank">Wikipedia</a> 
 
-The **Backhand Smash** is widely considered the hardest shot in tennis. It requires you to track a high ball over your non-dominant shoulder and hit it out of the air backward. Most pros opt to let it bounce or hit a defensive lob instead.### **Which shot generates the most power?**
+### **What is the hardest shot to hit in tennis?**
 
-The **Flat First Serve** generates the highest MPH of any tennis shot, followed closely by the flat forehand drive, because the player's entire body weight transfers forward into a clean, un-spun impact.### **How do I stop hitting the ball out?**
+The **Backhand Smash** is widely considered the hardest shot in tennis. It requires you to track a high ball over your non-dominant shoulder and hit it out of the air backward. Most pros opt to let it bounce or hit a defensive lob instead.
+
+### **Which shot generates the most power?**
+
+The **Flat First Serve** generates the highest MPH of any tennis shot, followed closely by the flat forehand drive, because the player's entire body weight transfers forward into a clean, un-spun impact.
+
+### **How do I stop hitting the ball out?**
 
 Stop hitting flat. To keep the ball inside the lines, you need to brush *up* the back of the ball to create topspin. The spin creates air pressure that forces the ball to dive down into the court safely.
 

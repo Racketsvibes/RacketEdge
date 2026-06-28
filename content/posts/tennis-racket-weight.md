@@ -128,12 +128,20 @@ Remember that customization options like adding lead tape or rubber damping stri
 
 ### **What is a good tennis racket weight for a beginner?**
 
-Beginners generally benefit from lighter tennis rackets in the 9-10-ounce range to allow easier swinging and maneuverability. Heavier rackets can be tiring and hard to control for novice players.### **Do heavier tennis rackets provide more power?**
+Beginners generally benefit from lighter tennis rackets in the 9-10-ounce range to allow easier swinging and maneuverability. Heavier rackets can be tiring and hard to control for novice players.
 
-Heavier tennis rackets above 11 ounces will provide more power and stability for big hitting. The extra mass generates more force behind shots. However, maneuverability is reduced with a very heavy racket.### **Are lighter or heavier rackets better for control?**
+### **Do heavier tennis rackets provide more power?**
 
-Lighter rackets under 10 ounces allow excellent maneuverability, quickness, and racquet head speed for controlled strokes. But heavier rackets above 11 ounces provide more stability through the swing for consistent, accurate shot placement.### **What tennis racket weight do professionals use?**
+Heavier tennis rackets above 11 ounces will provide more power and stability for big hitting. The extra mass generates more force behind shots. However, maneuverability is reduced with a very heavy racket.
 
-Most professional players use relatively heavy rackets in the 11-12 ounce range to get maximum power and stability on big swings. However, some pros like quicker rackets around 10-11 ounces for added mobility.### **How do I know if my tennis racket is too light or heavy?**
+### **Are lighter or heavier rackets better for control?**
+
+Lighter rackets under 10 ounces allow excellent maneuverability, quickness, and racquet head speed for controlled strokes. But heavier rackets above 11 ounces provide more stability through the swing for consistent, accurate shot placement.
+
+### **What tennis racket weight do professionals use?**
+
+Most professional players use relatively heavy rackets in the 11-12 ounce range to get maximum power and stability on big swings. However, some pros like quicker rackets around 10-11 ounces for added mobility.
+
+### **How do I know if my tennis racket is too light or heavy?**
 
 If your racket feels too unwieldy and you need help swinging smoothly, it may be too heavy. If the racket feels too jittery and lacks stability on contact, it may be too light. The ideal weight allows free swinging and a stable, controlled impact.

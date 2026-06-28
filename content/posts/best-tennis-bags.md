@@ -230,9 +230,13 @@ Tennis bags get thrown on rough concrete and red clay.
 
 ### **Can I wash my tennis bag?**
 
-**No.** Do not put it in the washing machine. The foam padding and thermal lining will be ruined. Use a damp cloth with mild soap and spot clean it. ### **What is the difference between a 9-pack and a 12-pack bag?**
+**No.** Do not put it in the washing machine. The foam padding and thermal lining will be ruined. Use a damp cloth with mild soap and spot clean it. 
 
-Usually, just one extra main compartment.<br>> **9-Pack:** Two main slots (one for rackets, one for gear).<br>> **12-Pack:** Three main slots (two for rackets, one for gear/shoes).### **Do backpacks fit oversized rackets?**
+### **What is the difference between a 9-pack and a 12-pack bag?**
+
+Usually, just one extra main compartment.<br>> **9-Pack:** Two main slots (one for rackets, one for gear).<br>> **12-Pack:** Three main slots (two for rackets, one for gear/shoes).
+
+### **Do backpacks fit oversized rackets?**
 
 Yes, but the handle will stick out. If you are using an oversized frame (107+ sq in), make sure the backpack has a strap to secure the handle so it doesn't flop around while you walk.
 

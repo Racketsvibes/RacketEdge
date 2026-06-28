@@ -264,11 +264,17 @@ Most retailers offer cheap demo programs to test multiple frames<sup></sup>. You
 
 ### **Which Head racket does Novak Djokovic use?**
 
-Novak Djokovic officially endorses and plays with the Head Speed Pro. His actual customized pro-stock frame is specifically tailored for his game. He strings it with natural gut and a durable polyester hybrid.### **Are Head tennis rackets good for beginners?**
+Novak Djokovic officially endorses and plays with the Head Speed Pro. His actual customized pro-stock frame is specifically tailored for his game. He strings it with natural gut and a durable polyester hybrid.
 
-Yes, Head makes excellent beginner rackets. The Head Gravity and Boom lines are incredibly forgiving and lightweight. These models help new players generate easy power and build confidence.### **What does Head Auxetic technology actually do?**
+### **Are Head tennis rackets good for beginners?**
 
-Auxetic technology improves the impact feel of the tennis racket. The carbon fiber actually widens when pulled and contracts when squeezed. This active response absorbs harsh vibrations and provides a solid feel.### **What is the difference between Speedand Radical?**
+Yes, Head makes excellent beginner rackets. The Head Gravity and Boom lines are incredibly forgiving and lightweight. These models help new players generate easy power and build confidence.
+
+### **What does Head Auxetic technology actually do?**
+
+Auxetic technology improves the impact feel of the tennis racket. The carbon fiber actually widens when pulled and contracts when squeezed. This active response absorbs harsh vibrations and provides a solid feel.
+
+### **What is the difference between Speedand Radical?**
 
 The Speed line focuses on fast swings and versatile all-court play. The Radical line focuses on creative control and crisp volleying. Both are excellent options, but Speed offers slightly more free power.
 

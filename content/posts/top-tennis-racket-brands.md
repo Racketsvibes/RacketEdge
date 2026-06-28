@@ -214,12 +214,20 @@ Choosing the right tennis racket can significantly impact your game, and I hope 
 
 ### **What should I look for when buying a tennis racket?**
 
-Consider factors like weight, head size, string pattern, and grip size. Beginners often benefit from lighter rackets with larger sweet spots, while advanced players may prefer heavier, more control-oriented models.### **Are expensive rackets worth it?**
+Consider factors like weight, head size, string pattern, and grip size. Beginners often benefit from lighter rackets with larger sweet spots, while advanced players may prefer heavier, more control-oriented models.
 
-Expensive rackets often come with advanced materials and technologies, but they aren’t always necessary. Focus on finding a racket that suits your playing style rather than just the price tag.### **How do I know if a racket is right for me?**
+### **Are expensive rackets worth it?**
 
-Test it out! Many stores offer demo programs where you can try different rackets before committing. Pay attention to how it feels during serves, volleys, and groundstrokes.### **Do professional players use customized rackets?**
+Expensive rackets often come with advanced materials and technologies, but they aren’t always necessary. Focus on finding a racket that suits your playing style rather than just the price tag.
 
-Yes, many pros tweak their rackets’ weight, balance, and string tension to suit their preferences. However, stock models are usually close to what they use.### **Can I improve my game by switching rackets?**
+### **How do I know if a racket is right for me?**
+
+Test it out! Many stores offer demo programs where you can try different rackets before committing. Pay attention to how it feels during serves, volleys, and groundstrokes.
+
+### **Do professional players use customized rackets?**
+
+Yes, many pros tweak their rackets’ weight, balance, and string tension to suit their preferences. However, stock models are usually close to what they use.
+
+### **Can I improve my game by switching rackets?**
 
 While a new racket won’t magically transform your skills, finding one that complements your strengths can certainly enhance your performance and enjoyment on the court.

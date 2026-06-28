@@ -218,10 +218,16 @@ With dedicated fitness work, proper technique adjustments, and premium equipment
 
 ### **How fast can a professional tennis player hit a ball?**
 
-The fastest recorded tennis serve is 163.7 mph by Samuel Groth. However, on average, professional male players serve around 120-150 mph, while female players intermediate 90-110 mph serve. Forehand and backhand groundstrokes can travel 80-100+ mph for advanced players.### **What is the average speed of a high school tennis serve?**
+The fastest recorded tennis serve is 163.7 mph by Samuel Groth. However, on average, professional male players serve around 120-150 mph, while female players intermediate 90-110 mph serve. Forehand and backhand groundstrokes can travel 80-100+ mph for advanced players.
 
-The average first serve speed for competitive high school players ranges from 75-90 mph, while second serves are between 60-80 mph. Less experienced players serve in the 50-70 mph range.### **How does the tennis ball speed compare to other sports?**
+### **What is the average speed of a high school tennis serve?**
 
-A tennis ball generally travels faster than a baseball, golf, table tennis, and soccer ball. Only jai alai, badminton, and squash exceed tennis ball speeds on a typical professional shot.### **What factors affect how fast a tennis ball travels?**
+The average first serve speed for competitive high school players ranges from 75-90 mph, while second serves are between 60-80 mph. Less experienced players serve in the 50-70 mph range.
+
+### **How does the tennis ball speed compare to other sports?**
+
+A tennis ball generally travels faster than a baseball, golf, table tennis, and soccer ball. Only jai alai, badminton, and squash exceed tennis ball speeds on a typical professional shot.
+
+### **What factors affect how fast a tennis ball travels?**
 
 The main factors are The player's strength and technique. The type of swing. The ball inflation pressure. The court surface. Temperature/humidity. Wind conditions. Altitude. The condition of the ball and court surface. Modern rackets, strings, and balls also boost tennis ball speed significantly.

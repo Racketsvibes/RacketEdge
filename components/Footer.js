@@ -16,24 +16,22 @@ export default function Footer() {
           </p>
         </div>
 
-        <div className="footer-links-grid">
-          <div className="footer-links-col">
-            <h4 className="footer-col-title">Navigation</h4>
-            <ul className="footer-links-list">
-              <li><Link href="/">Home</Link></li>
-              <li><Link href="/about">About Chris</Link></li>
-              <li><Link href="/contact">Contact</Link></li>
-            </ul>
-          </div>
+        <div className="footer-links-col">
+          <h4 className="footer-col-title">Navigation</h4>
+          <ul className="footer-links-list">
+            <li><Link href="/">Home</Link></li>
+            <li><Link href="/about">About Chris</Link></li>
+            <li><Link href="/contact">Contact</Link></li>
+          </ul>
+        </div>
 
-          <div className="footer-links-col">
-            <h4 className="footer-col-title">Legal & Info</h4>
-            <ul className="footer-links-list">
-              <li><Link href="/privacy-policy">Privacy Policy</Link></li>
-              <li><Link href="/affiliate-disclosure">Affiliate Disclosure</Link></li>
-              <li><a href="/feed.xml" target="_blank" rel="noopener noreferrer">RSS Feed</a></li>
-            </ul>
-          </div>
+        <div className="footer-links-col">
+          <h4 className="footer-col-title">Legal & Info</h4>
+          <ul className="footer-links-list">
+            <li><Link href="/privacy-policy">Privacy Policy</Link></li>
+            <li><Link href="/affiliate-disclosure">Affiliate Disclosure</Link></li>
+            <li><a href="/feed.xml" target="_blank" rel="noopener noreferrer">RSS Feed</a></li>
+          </ul>
         </div>
       </div>
 

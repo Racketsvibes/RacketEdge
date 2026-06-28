@@ -12,12 +12,14 @@ export default function Home() {
   // 2. Trending Section
   const trendingArticles = allPosts.slice(5, 9);
 
-  // 3. Badminton Section
   let badmintonArticles = allPosts.filter(p => 
     p.category?.toLowerCase().includes('badminton') || 
     p.title?.toLowerCase().includes('badminton')
   );
-  if (badmintonArticles.length === 0) badmintonArticles = allPosts.slice(9, 12);
+  if (badmintonArticles.length < 4) {
+    const fallbackList = allPosts.filter(p => !badmintonArticles.some(bp => bp.slug === p.slug));
+    badmintonArticles = [...badmintonArticles, ...fallbackList.slice(0, 4 - badmintonArticles.length)];
+  }
 
   // 4. Tennis Gears Section
   let tennisGearArticles = allPosts.filter(p => 
@@ -231,7 +233,7 @@ export default function Home() {
           </div>
           <div className="mission-img-box">
             <img 
-              src="/wp-content/uploads/2025/085dcd3cdb/RacketEdge-Hero-Section.webp" 
+              src="/wp-content/uploads/2025/08/RacketEdge-Hero-Section.webp" 
               alt="Tennis Court" 
               className="mission-image"
             />

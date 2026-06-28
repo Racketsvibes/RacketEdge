@@ -60,11 +60,17 @@ That’s why top athletes spend countless hours perfecting their technique on th
 
 ### **What does "ad" mean in tennis?**
 
-In tennis, “ad” stands for “advantage.” When a player wins a point after deuce, they gain an advantage, meaning they need one more point to win the game.### **What is the ad side of a tennis court?**
+In tennis, “ad” stands for “advantage.” When a player wins a point after deuce, they gain an advantage, meaning they need one more point to win the game.
 
-The ad side, also known as the ad court, refers to the left side of the tennis court when facing the net. It’s where players serve during specific scoring situations, such as when they have the advantage.### **Why is it called the ad court?**
+### **What is the ad side of a tennis court?**
 
-The term "ad court" comes from the scoring system in tennis. When a player gains an "advantage" after deuce, they serve from this side of the court. "Ad" is short for "advantage," making the name directly tied to its role in gameplay.### **Where should you stand when serving or returning from the ad court?**
+The ad side, also known as the ad court, refers to the left side of the tennis court when facing the net. It’s where players serve during specific scoring situations, such as when they have the advantage.
+
+### **Why is it called the ad court?**
+
+The term "ad court" comes from the scoring system in tennis. When a player gains an "advantage" after deuce, they serve from this side of the court. "Ad" is short for "advantage," making the name directly tied to its role in gameplay.
+
+### **Where should you stand when serving or returning from the ad court?**
 
 If you’re serving from the ad court, position yourself to the left of the center mark, behind the baseline. As a returner, stand on the left side of the court near where the singles sideline meets the baseline to prepare for your opponent’s serve.
 

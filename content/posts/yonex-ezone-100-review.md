@@ -150,8 +150,12 @@ They kept the massive power and spin but improved the comfort with the new dampe
 
 ### **Is the EZONE 100 good for tennis elbow?**
 
-Yes. While it is a stiff power frame (68 RA), the Vibration Dampening Mesh (VDM) inside the handle filters out the harsh vibrations. It is much friendlier than other power rackets.### **EZONE 98 vs. EZONE 100: Which one?**
+Yes. While it is a stiff power frame (68 RA), the Vibration Dampening Mesh (VDM) inside the handle filters out the harsh vibrations. It is much friendlier than other power rackets.
 
-**EZONE 100:** More power, larger sweet spot, easier to use. Best for 3.5-4.5 players.<br><br>**EZONE 98:** More control, thinner beam, requires better technique. Best for 4.5+ players.### **What string setup do you recommend?**
+### **EZONE 98 vs. EZONE 100: Which one?**
+
+**EZONE 100:** More power, larger sweet spot, easier to use. Best for 3.5-4.5 players.<br><br>**EZONE 98:** More control, thinner beam, requires better technique. Best for 4.5+ players.
+
+### **What string setup do you recommend?**
 
 To tame the power, I recommend a polyester string like **Yonex Poly Tour Pro** strung at around **52-54 lbs**. If you want more comfort, a multifilament at **55 lbs** works great.

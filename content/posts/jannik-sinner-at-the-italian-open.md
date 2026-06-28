@@ -140,11 +140,17 @@ With top rivals like Alexander Zverev suffering shock early exits, Sinner's path
 
 ### **Has Jannik Sinner ever won the Italian Open?**
 
-No, Jannik Sinner has not won the Italian Open yet. He is currently chasing his first title in Rome during the 2026 tournament. Winning Rome would complete his collection of all nine ATP Masters 1000 titles.### **Who did Jannik Sinner beat at the 2026 Italian Open?**
+No, Jannik Sinner has not won the Italian Open yet. He is currently chasing his first title in Rome during the 2026 tournament. Winning Rome would complete his collection of all nine ATP Masters 1000 titles.
 
-So far, Sinner has defeated three opponents in straight sets. He beat Sebastian Ofner in the second round and Alexei Popyrin in the third. He then defeated Andrea Pellegrino in the Round of 16.### **What record did Sinner break in Rome 2026?**
+### **Who did Jannik Sinner beat at the 2026 Italian Open?**
 
-Sinner tied Novak Djokovic's all-time record of 31 consecutive Masters 1000 match wins. He achieved this milestone by defeating Andrea Pellegrino in the fourth round. However, he still needs one more win to officially break the record completely.### **Will Jannik Sinner play in the 2026 Italian Open final?**
+So far, Sinner has defeated three opponents in straight sets. He beat Sebastian Ofner in the second round and Alexei Popyrin in the third. He then defeated Andrea Pellegrino in the Round of 16.
+
+### **What record did Sinner break in Rome 2026?**
+
+Sinner tied Novak Djokovic's all-time record of 31 consecutive Masters 1000 match wins. He achieved this milestone by defeating Andrea Pellegrino in the fourth round. However, he still needs one more win to officially break the record completely.
+
+### **Will Jannik Sinner play in the 2026 Italian Open final?**
 
 It is highly likely, but not guaranteed. Sinner is currently in the quarterfinals and playing exceptional, undefeated tennis. However, he must still defeat two more opponents to reach the final championship match.
 

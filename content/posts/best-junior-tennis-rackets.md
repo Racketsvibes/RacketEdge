@@ -314,10 +314,16 @@ But for a great budget pick, go for **<a href="https://amzn.to/3Sjoogo" target="
 
 ### **How can I choose a tennis racket for kids?**
 
-See your child's age and then get the insights from the chart.### **What tennis racket should I buy for a 13-year-old girl?**
+See your child's age and then get the insights from the chart.
 
-Children of ages 11 to 12 must use a racket of 26”. You can use a 26” or 27” racket for a 13 year girl.### **What does a junior Tennis Racket mean?**
+### **What tennis racket should I buy for a 13-year-old girl?**
 
-In North America, a racket ranging from 17” to 26” is said to be a junior Tennis Racket which is used for children ages ranging from 3 years to 12 years.### **Can adults play with junior Tennis Rackets?**
+Children of ages 11 to 12 must use a racket of 26”. You can use a 26” or 27” racket for a 13 year girl.
+
+### **What does a junior Tennis Racket mean?**
+
+In North America, a racket ranging from 17” to 26” is said to be a junior Tennis Racket which is used for children ages ranging from 3 years to 12 years.
+
+### **Can adults play with junior Tennis Rackets?**
 
 No, it's not recommended to play with a junior Tennis Racket if you are an adult player. Choosing from the best-recommended tennis rackets for adults is recommended for high performance.

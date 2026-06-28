@@ -329,12 +329,20 @@ See you on the court with your best tennis rackets!
 
 ### **How do I know my grip size?**
 
-The fastest way is the "Pinky Test." Hold the racket in your normal forehand grip. You should be able to fit your pinky finger in the gap between your fingertips and your palm.<br>  **>** **Too tight?** The grip is too small (racket will twist).<br>  **> Too much space?** The grip is too big (you can’t snap your wrist).<br>  ***>** Most men use 4 3/8 (#3) and most women use 4 1/4 (#2).*### **Which racket gives the most power?**
+The fastest way is the "Pinky Test." Hold the racket in your normal forehand grip. You should be able to fit your pinky finger in the gap between your fingertips and your palm.<br>  **>** **Too tight?** The grip is too small (racket will twist).<br>  **> Too much space?** The grip is too big (you can’t snap your wrist).<br>  ***>** Most men use 4 3/8 (#3) and most women use 4 1/4 (#2).*
 
-In our testing, the **Babolat Pure Drive** and **Yonex EZONE** series consistently deliver the most "free power." They have thicker frames that do the work for you. If you have a slow swing, these frames will help you hit the ball deep with less effort.### **How often should I restringing my racket?**
+### **Which racket gives the most power?**
 
-A good rule of thumb is to restring as many times per year as you play per week.<br>**>** **Play 2x a week?** Restring **2x a year**.<br>**>** **Play 5x a week?** Restring **5x a year**.<br>**>** ***Note: **If you use polyester strings (like the pros), they go "dead" faster (usually 4–6 weeks).*### Should I choose a heavier or lighter racket?
+In our testing, the **Babolat Pure Drive** and **Yonex EZONE** series consistently deliver the most "free power." They have thicker frames that do the work for you. If you have a slow swing, these frames will help you hit the ball deep with less effort.
 
-**Beginners:** Go lighter (under 300g). It helps you learn technique without tiring your arm.<br>**Advanced:** Go heavier (305g+). Mass = Stability. A heavier racket won't wobble when you block a heavy serve, but you need the muscles to swing it.### What string tension should I ask for?
+### **How often should I restringing my racket?**
+
+A good rule of thumb is to restring as many times per year as you play per week.<br>**>** **Play 2x a week?** Restring **2x a year**.<br>**>** **Play 5x a week?** Restring **5x a year**.<br>**>** ***Note: **If you use polyester strings (like the pros), they go "dead" faster (usually 4–6 weeks).*
+
+### Should I choose a heavier or lighter racket?
+
+**Beginners:** Go lighter (under 300g). It helps you learn technique without tiring your arm.<br>**Advanced:** Go heavier (305g+). Mass = Stability. A heavier racket won't wobble when you block a heavy serve, but you need the muscles to swing it.
+
+### What string tension should I ask for?
 
 If you aren't sure, ask for **53-55 lbs**. This is the middle ground.<br>**Want more Power?** Go lower (48-52 lbs). The strings act like a trampoline.<br>**Want more Control?** Go higher (56-60 lbs). The string bed feels stiffer and more precise.

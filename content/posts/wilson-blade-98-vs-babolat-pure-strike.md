@@ -78,11 +78,17 @@ If you are still completely unsure, take the **RacketEdge Gear Matching Quiz** t
 
 ### **Is the Babolat Pure Strike bad for tennis elbow?**
 
-Yes, the Pure Strike is generally considered harsh on the elbow due to high stiffness. It transfers significant impact vibration directly to the player's arm. However, this depends heavily on your specific string setup. Using a soft multifilament string at a lower tension can drastically reduce injury risk.### **Which string pattern is better: 16x19 or 18x20?**
+Yes, the Pure Strike is generally considered harsh on the elbow due to high stiffness. It transfers significant impact vibration directly to the player's arm. However, this depends heavily on your specific string setup. Using a soft multifilament string at a lower tension can drastically reduce injury risk.
 
-A 16x19 string pattern provides easier access to topspin and a higher launch angle. An 18x20 string pattern offers a flatter ball trajectory and maximum directional control. Both the Blade and Pure Strike offer both pattern options. The best choice depends entirely on whether your game relies on heavy spin.### **Can a beginner use the Wilson Blade 98?**
+### **Which string pattern is better: 16x19 or 18x20?**
 
-We strongly advise against beginners using the Wilson Blade 98. It has a low-powered, demanding frame that requires excellent timing and footwork. Beginners will struggle to hit the ball deep into the opponent's court. Beginners should choose a lighter, 100-square-inch frame to learn proper mechanics first.### Which racquet is easier for intermediate players to use?
+A 16x19 string pattern provides easier access to topspin and a higher launch angle. An 18x20 string pattern offers a flatter ball trajectory and maximum directional control. Both the Blade and Pure Strike offer both pattern options. The best choice depends entirely on whether your game relies on heavy spin.
+
+### **Can a beginner use the Wilson Blade 98?**
+
+We strongly advise against beginners using the Wilson Blade 98. It has a low-powered, demanding frame that requires excellent timing and footwork. Beginners will struggle to hit the ball deep into the opponent's court. Beginners should choose a lighter, 100-square-inch frame to learn proper mechanics first.
+
+### Which racquet is easier for intermediate players to use?
 
 The **Wilson Blade 98** is often considered more "user-friendly" for intermediates because its balanced weight and flex make it easier to time. The Pure Strike's stiffness can be unforgiving if your footwork is not perfect, as off-center hits can feel "jarring." However, an intermediate player who struggles to generate depth may actually prefer the **extra pop** provided by the Pure Strike.
 

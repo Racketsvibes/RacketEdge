@@ -536,10 +536,16 @@ There are lots of choices available on the market so first consider these key fa
 
 ### **Which is the best badminton racket?**
 
-Finding the perfect badminton racket really depends on what you like and how you play. However, two of the most well-liked ones are Yonex Astrox 99 Pro and Victor Thruster F C, but the most important thing is to pick one that suits what you personally prefer when you play.### **What is the best badminton rackets for beginners?**
+Finding the perfect badminton racket really depends on what you like and how you play. However, two of the most well-liked ones are Yonex Astrox 99 Pro and Victor Thruster F C, but the most important thing is to pick one that suits what you personally prefer when you play.
 
-If you're a beginner, go for a racket that's light and easy to use. The Yonex Nanoray series is great for beginners. Rackets like Yonex Nanoray Light 18i are one of the best Badminton rackets for beginners to start their game. They help you move around easily and give you a good balance of control.### **Which is the best badminton rackets brand?**
+### **What is the best badminton rackets for beginners?**
 
-Yonex is thought to be one of the best badminton racket brands everywhere. They're known for making really good rackets that are innovative and high-quality. Yonex has rackets for all kinds of players. Other than Yonex Victor, Li-Ning, Babolat, and Carlton are also good brands.### **What badminton racket is best for smash?**
+If you're a beginner, go for a racket that's light and easy to use. The Yonex Nanoray series is great for beginners. Rackets like Yonex Nanoray Light 18i are one of the best Badminton rackets for beginners to start their game. They help you move around easily and give you a good balance of control.
+
+### **Which is the best badminton rackets brand?**
+
+Yonex is thought to be one of the best badminton racket brands everywhere. They're known for making really good rackets that are innovative and high-quality. Yonex has rackets for all kinds of players. Other than Yonex Victor, Li-Ning, Babolat, and Carlton are also good brands.
+
+### **What badminton racket is best for smash?**
 
 Rackets that are great for strong smashes usually have more weight in the head part. The Yonex Astrox series, especially rackets like the Yonex Astrox 99 Pro, are best for powerful smashes. Another good pick is the Victor Thruster F C, which is known for its power-hitting and is also a good choice if you want to focus on strong smashes in your game.

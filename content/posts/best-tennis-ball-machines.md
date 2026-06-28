@@ -646,13 +646,21 @@ Wipe down after dew sessions. Never operate in heavy rain. Store indoors with si
 
 ### **How Long Do Tennis Ball Machines Last?**
 
-Quality machines average 7-10 years with proper maintenance. Commercial models often exceed 15,000 operating hours.### **Are Warranties Worth It?**
+Quality machines average 7-10 years with proper maintenance. Commercial models often exceed 15,000 operating hours.
 
-3+ year coverage is essential. Spinshot's 5-year motor warranty leads the industry.### **Can You Customize Drill Patterns?**
+### **Are Warranties Worth It?**
 
-Advanced models store 50+ user-created sequences. Some sync with video analysis software for technical tweaks.### **What's the Average Price Range?**
+3+ year coverage is essential. Spinshot's 5-year motor warranty leads the industry.
 
-Serious players should budget $1,500-$3,000. The $1,800-$2,200 range offers peak value.### **How Much Maintenance Is Required?**
+### **Can You Customize Drill Patterns?**
+
+Advanced models store 50+ user-created sequences. Some sync with video analysis software for technical tweaks.
+
+### **What's the Average Price Range?**
+
+Serious players should budget $1,500-$3,000. The $1,800-$2,200 range offers peak value.
+
+### **How Much Maintenance Is Required?**
 
 Monthly cleaning and annual professional servicing optimizes performance. Wheel replacements occur every 2-3 years.
 

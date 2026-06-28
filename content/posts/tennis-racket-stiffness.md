@@ -128,8 +128,12 @@ Stiffness is the most important factor to consider when looking for tennis racke
 
 ### **Which is the best stiff tennis racket?**
 
-Considering factors like weight, length, and stiffness rating, we consider the Babolat pure strike tennis racket as the best stiff tennis racket.### **Does a stiff racket lose its stiffness over time?**
+Considering factors like weight, length, and stiffness rating, we consider the Babolat pure strike tennis racket as the best stiff tennis racket.
 
-Yes! After some time, a stiff racket tends to lose its resilience, which consequently makes it softer and loss of control. ### **What are the impacts of tennis racket stiffness on performance?**
+### **Does a stiff racket lose its stiffness over time?**
+
+Yes! After some time, a stiff racket tends to lose its resilience, which consequently makes it softer and loss of control. 
+
+### **What are the impacts of tennis racket stiffness on performance?**
 
 Stiffer rackets execute more powerful shots, which results in less control as compared to flexible ones. However, stiff rackets are comfortable. These conditions depend upon your skill level, physical conditions, and personal preferences.

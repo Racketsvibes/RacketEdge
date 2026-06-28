@@ -618,8 +618,12 @@ If you are a serious tennis player and need a racket that helps you improve your
 
 ### **How do I choose tennis racquet for a beginner?**
 
-Choose a tenis racquet with an oversized head usually ranging from 100 sq inches to 110 sq inches or above and  light weight frame.### **Does string material matter for a beginner racket?**
+Choose a tenis racquet with an oversized head usually ranging from 100 sq inches to 110 sq inches or above and  light weight frame.
 
-No, it does not really matter. Go with a string that originally cones with a beginner racket and it will be sufficient for you.### **What should be the weight of a tennis racket for a beginner?**
+### **Does string material matter for a beginner racket?**
+
+No, it does not really matter. Go with a string that originally cones with a beginner racket and it will be sufficient for you.
+
+### **What should be the weight of a tennis racket for a beginner?**
 
 For the weight of a beginner racket, only one rule exists, the lighter, the better.

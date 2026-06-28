@@ -138,8 +138,12 @@ So, tennis courts have a dimension of 78 ft long and have a width of 27 ft for s
 
 ### What are the standard dimensions of a tennis court?
 
-A tennis court is typically 78 feet (23.77 metres) long. For singles matches, the width is 27 feet (8.23 metres), while doubles matches have a width of 36 feet (10.97 metres). The service line is located 21 feet (6.4 metres) from the net.### How are the different areas of a tennis court defined?
+A tennis court is typically 78 feet (23.77 metres) long. For singles matches, the width is 27 feet (8.23 metres), while doubles matches have a width of 36 feet (10.97 metres). The service line is located 21 feet (6.4 metres) from the net.
 
-The tennis court is divided into various areas, including service boxes, doubles alley, backcourt (no man's land), and a centre line. Each area serves a specific purpose, influencing gameplay and strategy.### What is the size and significance of the Back Court (No Man’s Land) on a tennis court?
+### How are the different areas of a tennis court defined?
+
+The tennis court is divided into various areas, including service boxes, doubles alley, backcourt (no man's land), and a centre line. Each area serves a specific purpose, influencing gameplay and strategy.
+
+### What is the size and significance of the Back Court (No Man’s Land) on a tennis court?
 
 The Back Court, the largest box on a tennis court between the service line and baseline, is often referred to as 'no man's land.' Approximately 18 feet by 27 feet (486 square feet), this area should be avoided during play, as players are too close to the net for effective groundstrokes.

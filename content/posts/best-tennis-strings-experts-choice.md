@@ -630,8 +630,12 @@ Whether you're a power- player, a beginner looking for comfort, or a professiona
 
 ### **What's the difference between natural gut and synthetic strings?**
 
-Natural gut strings provide exceptional comfort and power but are costly and less durable. Synthetic strings, on the other hand, are budget-friendly and offer a balanced mix of performance attributes.### **How frequently do I rest my tennis racket?**
+Natural gut strings provide exceptional comfort and power but are costly and less durable. Synthetic strings, on the other hand, are budget-friendly and offer a balanced mix of performance attributes.
 
-For recreational players, restringing 1-3 times per year is common. Competitive players may need to restring more frequently, especially if they use polyester strings known for faster tension loss.### **How does string tension affect my game?**
+### **How frequently do I rest my tennis racket?**
+
+For recreational players, restringing 1-3 times per year is common. Competitive players may need to restring more frequently, especially if they use polyester strings known for faster tension loss.
+
+### **How does string tension affect my game?**
 
 String tension plays a crucial role. A higher tension level provides more control but less power, whereas a lower tension level provides more power but less control. The ideal tension varies from player to player, so experimentation is key to finding what suits your playing style best.

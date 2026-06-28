@@ -84,13 +84,21 @@ If you also struggle with scoreboard confusion, read our guide on [**What "Love"
 
 ### **Can you claim a let on a winning shot?**
 
-No. If a ball rolls on the court after you hit a clear winner, the point stands. You cannot call a let to save a point you already lost.### **Is there a limit to service lets?**
+No. If a ball rolls on the court after you hit a clear winner, the point stands. You cannot call a let to save a point you already lost.
 
-No. You can hit ten service lets in a row. You will just keep replaying that exact same serve. There is no penalty for multiple service lets.### **What if a serve hits the net and goes out?**
+### **Is there a limit to service lets?**
 
-That is not a let. That is a standard service fault. The ball must land in the correct box to be a let.### Who is allowed to call a let?
+No. You can hit ten service lets in a row. You will just keep replaying that exact same serve. There is no penalty for multiple service lets.
 
-Any player on the court can officially call a let. You must call it loudly and immediately when the distraction happens. You cannot wait to see if your shot goes out first. In professional matches, only the umpire calls the service lets.### Can you call a let if your string breaks?
+### **What if a serve hits the net and goes out?**
+
+That is not a let. That is a standard service fault. The ball must land in the correct box to be a let.
+
+### Who is allowed to call a let?
+
+Any player on the court can officially call a let. You must call it loudly and immediately when the distraction happens. You cannot wait to see if your shot goes out first. In professional matches, only the umpire calls the service lets.
+
+### Can you call a let if your string breaks?
 
 Breaking a string during a rally does not qualify for a let. You must finish the current point with the broken racket. If you stop playing early, you will automatically forfeit the point. General equipment failure is your responsibility. It is not treated as an unpredictable outside distraction.
 

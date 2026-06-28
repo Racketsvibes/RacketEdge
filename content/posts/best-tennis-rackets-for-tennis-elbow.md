@@ -344,9 +344,13 @@ You can buy the best racket in the world, but if you put stiff Polyester strings
 
 ### **Can a racket cure tennis elbow?**
 
-No racket can "cure" it (only rest and rehab do that), but the right racket can stop it from getting worse. A flexible frame reduces the shock that aggravates the tendon, allowing you to play longer without pain.### **Is a lighter racket better for arm pain?**
+No racket can "cure" it (only rest and rehab do that), but the right racket can stop it from getting worse. A flexible frame reduces the shock that aggravates the tendon, allowing you to play longer without pain.
 
-Not always. A racket that is *too* light (under 280g) will vibrate more upon impact with a heavy ball. A medium-weight racket (300-310g) absorbs more of the collision energy so your arm doesn't have to.### **What string tension is best for tennis elbow?**
+### **Is a lighter racket better for arm pain?**
+
+Not always. A racket that is *too* light (under 280g) will vibrate more upon impact with a heavy ball. A medium-weight racket (300-310g) absorbs more of the collision energy so your arm doesn't have to.
+
+### **What string tension is best for tennis elbow?**
 
 Lower is better. High tension creates a "boardy," stiff feel. Drop your tension to **48–52 lbs**. This creates a trampoline effect that is softer on impact.
 

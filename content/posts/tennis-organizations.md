@@ -72,15 +72,25 @@ Keeping up with tour schedules can be very confusing. Join the free **[RacketEdg
 
 ### **Who actually runs the Grand Slams?**
 
-The ITF acts as the ultimate authority for Grand Slams. However, they partner with national bodies for execution. For example, the USTA runs the daily operations of the US Open.### **Does the LTA own Wimbledon?**
+The ITF acts as the ultimate authority for Grand Slams. However, they partner with national bodies for execution. For example, the USTA runs the daily operations of the US Open.
 
-No, the All England Lawn Tennis Club (AELTC) owns Wimbledon. The LTA simply partners with the AELTC to stage the tournament. The LTA uses Wimbledon profits to fund British tennis.### **What is the difference between ITF and Tennis Europe?**
+### **Does the LTA own Wimbledon?**
 
-The ITF is the global governing body for the entire world. Tennis Europe is a regional body strictly for European nations. Tennis Europe operates under the larger ITF umbrella.### **Does the USTA control the ATP?**
+No, the All England Lawn Tennis Club (AELTC) owns Wimbledon. The LTA simply partners with the AELTC to stage the tournament. The LTA uses Wimbledon profits to fund British tennis.
 
-No, the USTA has no control over the ATP tour. The USTA only governs tennis inside the United States. The ATP is a separate international organization for male professionals.### Who makes the official rules of tennis?
+### **What is the difference between ITF and Tennis Europe?**
 
-The International Tennis Federation (ITF) makes the official rules. They control court dimensions, equipment standards, and scoring systems. The ATP and WTA must follow these exact global rules. Individual tours cannot change the basic laws of tennis.### Can players compete in both ITF and ATP events?
+The ITF is the global governing body for the entire world. Tennis Europe is a regional body strictly for European nations. Tennis Europe operates under the larger ITF umbrella.
+
+### **Does the USTA control the ATP?**
+
+No, the USTA has no control over the ATP tour. The USTA only governs tennis inside the United States. The ATP is a separate international organization for male professionals.
+
+### Who makes the official rules of tennis?
+
+The International Tennis Federation (ITF) makes the official rules. They control court dimensions, equipment standards, and scoring systems. The ATP and WTA must follow these exact global rules. Individual tours cannot change the basic laws of tennis.
+
+### Can players compete in both ITF and ATP events?
 
 Yes, professional players regularly compete in both organizational circuits. Lower-ranked players play ITF events to earn ATP points. Top professionals play the ATP weekly tour all year. They then pause the ATP tour to play ITF Grand Slams.
 

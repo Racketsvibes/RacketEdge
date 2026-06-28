@@ -118,8 +118,12 @@ Last but not least are hard courts, best suited for all types of matches from be
 
 ### **Do I need different tennis shoes for different surfaces?**
 
-If you’re playing on a court type regularly, it’s best to have shoes that suit that particular surface.### **What is the fastest tennis surface?**
+If you’re playing on a court type regularly, it’s best to have shoes that suit that particular surface.
 
-The Grass Courts may also produce an unpredictable bounce to the ball due to the softer and slightly uneven surface of the grass. Due to the characteristics of the Grass Courts, the ball moves at a faster pace with a lower bounce thus favoring players with a good serve and net players.### **Is Wimbledon a fast surface?**
+### **What is the fastest tennis surface?**
+
+The Grass Courts may also produce an unpredictable bounce to the ball due to the softer and slightly uneven surface of the grass. Due to the characteristics of the Grass Courts, the ball moves at a faster pace with a lower bounce thus favoring players with a good serve and net players.
+
+### **Is Wimbledon a fast surface?**
 
 Yes, Wimbledon is the fastest grass court because of the proper maintenance and car required to keep it useable for the tournaments.

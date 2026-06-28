@@ -102,11 +102,17 @@ Things change when the score reaches **40 - 40**. In tennis, you cannot win a ga
 
 ### **Why does tennis scoring skip from 30 to 40?**
 
-Historically, tennis scoring was tracked using a clock face (15, 30, 45, 60). However, the number 45 was eventually shortened to "40" simply because it was faster and easier for umpires to say out loud during fast-paced matches.### **What does it mean to win a "Love Game"?**
+Historically, tennis scoring was tracked using a clock face (15, 30, 45, 60). However, the number 45 was eventually shortened to "40" simply because it was faster and easier for umpires to say out loud during fast-paced matches.
 
-A "love game" occurs when one player wins all four points in a row, and the opposing player scores zero. The final point progression looks like this: 15-0, 30-0, 40-0, Game.### **Does a tennis match start at love-love?**
+### **What does it mean to win a "Love Game"?**
 
-No. While both players start with zero points, the official terminology used by the umpire at the start of a match is "Love-all, play."### **What is a "Golden Set"?**
+A "love game" occurs when one player wins all four points in a row, and the opposing player scores zero. The final point progression looks like this: 15-0, 30-0, 40-0, Game.
+
+### **Does a tennis match start at love-love?**
+
+No. While both players start with zero points, the official terminology used by the umpire at the start of a match is "Love-all, play."
+
+### **What is a "Golden Set"?**
 
 A Golden [Set in Tennis](/posts/set-in-tennis) is an incredibly rare achievement where a player wins every single point in a set without dropping a single one (winning 24 consecutive points, resulting in a 6-0 set score).
 

@@ -99,15 +99,25 @@ Do not guess when buying new tennis equipment. Join the **RacketEdge Beginner Te
 
 ### **Does Carlos Alcaraz use lead tape?**
 
-Yes, Babolat customizes his frame with lead tape. They hide it safely under the top bumper guard. This customization gives him incredible stability against heavy shots.### **What grip size does Alcaraz use?**
+Yes, Babolat customizes his frame with lead tape. They hide it safely under the top bumper guard. This customization gives him incredible stability against heavy shots.
 
-He uses a standard grip size 3. He wraps it with a thin Babolat VS Original overgrip. This allows him to feel the racket bevels perfectly.### **Does Alcaraz change string tension during matches?**
+### **What grip size does Alcaraz use?**
 
-Yes, he frequently adjusts his tension during live matches. If the balls get heavy, he drops the tension slightly. Lower tension helps him find extra power when fatigued.### **Does Alcaraz use a vibration dampener?**
+He uses a standard grip size 3. He wraps it with a thin Babolat VS Original overgrip. This allows him to feel the racket bevels perfectly.
 
-Yes, he uses a vibration dampener on his strings. He plays with the Babolat Custom Damp. He uses the black and red version with the insert removed.### **How often does he restring his rackets?**
+### **Does Alcaraz change string tension during matches?**
 
-Professional players like Alcaraz restring their rackets every single day. He brings up to six freshly strung rackets to every match. Polyester strings lose tension rapidly after just two hours of hitting.### **What is the difference between Pure Aero and Pure Aero 98?**
+Yes, he frequently adjusts his tension during live matches. If the balls get heavy, he drops the tension slightly. Lower tension helps him find extra power when fatigued.
+
+### **Does Alcaraz use a vibration dampener?**
+
+Yes, he uses a vibration dampener on his strings. He plays with the Babolat Custom Damp. He uses the black and red version with the insert removed.
+
+### **How often does he restring his rackets?**
+
+Professional players like Alcaraz restring their rackets every single day. He brings up to six freshly strung rackets to every match. Polyester strings lose tension rapidly after just two hours of hitting.
+
+### **What is the difference between Pure Aero and Pure Aero 98?**
 
 The standard Pure Aero has a 100-square-inch head. It uses a 16x19 string pattern for maximum power. The Pure Aero 98 has a smaller head and denser 16x20 pattern. This gives Alcaraz significantly more control
 

@@ -65,7 +65,7 @@ export default function Header() {
               </li>
 
               <li className="nav-item">
-                <Link href="/posts/types-of-tennis-shots" onClick={closeMobileMenu}>Playing Guides</Link>
+                <Link href="/category/tennis-guides" onClick={closeMobileMenu}>Playing Guides</Link>
               </li>
               <li className="nav-item">
                 <Link href="/about" onClick={closeMobileMenu}>About Chris</Link>

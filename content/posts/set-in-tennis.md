@@ -76,11 +76,17 @@ Understanding court rules takes time and practice. Join the **RacketEdge Beginne
 
 ### **How many sets are in a match?**
 
-Most professional matches are best-of-three formats. You must win two sets to win the match. Men's Grand Slam tournaments use a grueling best-of-five format.### **What is a pro set in Tennis?**
+Most professional matches are best-of-three formats. You must win two sets to win the match. Men's Grand Slam tournaments use a grueling best-of-five format.
 
-A pro set is a faster format used in junior or college matches. Instead of playing to six games, competitors play to eight games. You must still win by a margin of two games.### **How does a 7-point tiebreak work?**
+### **What is a pro set in Tennis?**
 
-A tiebreak replaces standard game scoring. Players count points normally like 1, 2, and 3. The first person to reach 7 points wins the tiebreak. They must also win the tiebreak by two clear points.### **What is a straight-sets victory?**
+A pro set is a faster format used in junior or college matches. Instead of playing to six games, competitors play to eight games. You must still win by a margin of two games.
+
+### **How does a 7-point tiebreak work?**
+
+A tiebreak replaces standard game scoring. Players count points normally like 1, 2, and 3. The first person to reach 7 points wins the tiebreak. They must also win the tiebreak by two clear points.
+
+### **What is a straight-sets victory?**
 
 A straight-sets victory means a player won without losing a single set. If the match is best-of-three, they won with a 2-0 score. They dominated the opponent completely from start to finish.
 
