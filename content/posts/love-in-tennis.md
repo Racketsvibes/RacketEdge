@@ -10,16 +10,6 @@ category: "Tennis Guides"
 featuredImage: "/wp-content/uploads/2025/07/What-does-love-mean-in-tennis-1.webp"
 ---
 
-# What Does "Love" Mean in Tennis? Origin & Scoring Explained (2026)
-
-*Chris Davies* *|* *Lead Gear Tester* *Last Updated: March 08, 2026*
-
-*[RacketEdge](/) is reader-supported. When you buy through our links, we may earn an affiliate commission.*
-
-<figure class="wp-block-kadence-image kb-image1715_4ab504-51 size-large">![What does love mean in tennis? - Tennis Scoring](/wp-content/uploads/2025/07/What-does-love-mean-in-tennis-1-1024x576.webp)
-
-</figure>
-
 Tennis is a game of brutal physical endurance and sharp mental strategy, but to a beginner, the hardest part is often just trying to understand the scoreboard.
 
 If you have ever tuned into Wimbledon or the US Open and heard the umpire declare "15-love" or "40-love," you might have wondered what romance has to do with a racket sport.

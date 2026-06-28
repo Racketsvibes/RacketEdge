@@ -14,9 +14,7 @@ If you've been engaged in badminton for a considerable time, you've probably enc
 
 The question then arises: which tension is the most suitable for you? In this article, we'll dig into this matter and provide an answer to not only what tension is recommended but, more significantly, why it is the optimal choice for you.
 
-<figure class="wp-block-kadence-image kb-image1016_5f5fa8-31 size-large kb-image-is-ratio-size">![Badminton Racket String Tension](/wp-content/uploads/2023/12/Best-Badminton-Racket-String-Tension-1024x576.webp)
-
-</figure>
+![Badminton Racket String Tension](/wp-content/uploads/2023/12/Best-Badminton-Racket-String-Tension-1024x576.webp)
 
 ## What Should Be My Recommended Best Badminton Racket String Tension?
 
@@ -24,9 +22,7 @@ When you invest in a new racket, you can rely on the manufacturer's stringing re
 
 However, the tension you choose will ultimately depend on individual factors unique to you, such as your skill level and personal preferences. Considering these aspects is crucial in finding the ideal string tension that will enhance your performance and satisfaction on the court.
 
-<figure class="wp-block-kadence-image kb-image1016_e1e749-a2 size-full kb-image-is-ratio-size">![Best Badminton Racquet String Tensions](/wp-content/uploads/2023/12/Featured-Image-of-Badminton-Racket-String-Tension.webp)
-
-</figure>
+![Best Badminton Racquet String Tensions](/wp-content/uploads/2023/12/Featured-Image-of-Badminton-Racket-String-Tension.webp)
 
 Here are the benefits and drawbacks of low, medium, and high tension:
 
@@ -60,9 +56,7 @@ High-string tension can be valuable for advanced or professional players who pri
 
 String tension may significantly impact the performance of the Badminton Racket. Here are some ways in which string tension affects a Badminton racket.
 
-<figure class="wp-block-kadence-image kb-image1016_f1b100-4c size-large kb-image-is-ratio-size">![String Tension affect the Badminton Racket](/wp-content/uploads/2023/12/String-Tension-Affect-The-Badminton-Racket-1024x576.webp)
-
-</figure>
+![String Tension affect the Badminton Racket](/wp-content/uploads/2023/12/String-Tension-Affect-The-Badminton-Racket-1024x576.webp)
 
 **Power And Control:** String tension directly impacts the power and control of your shots. Higher tension offers better control and accuracy but sacrifices some power. Lower tension provides more power but reduces control. Higher tension suits players who rely on finesse and technique, allowing precise placement and shot accuracy. Lower tension is preferred by players relying on powerful smashes and aggressive shots, enabling them to generate more power.
 
@@ -74,7 +68,13 @@ String tension may significantly impact the performance of the Badminton Racket.
 
 Here is the summarized Badminton racket string tension chart:
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">**String tension**</th><th class="has-text-align-center" data-align="center">**Power**</th><th class="has-text-align-center" data-align="center">**Control**</th><th class="has-text-align-center" data-align="center">**Durability**</th><th class="has-text-align-center" data-align="center">**Feel**</th><th class="has-text-align-center" data-align="center">**Vibration**</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">Low</td><td class="has-text-align-center" data-align="center">Easy</td><td class="has-text-align-center" data-align="center">Decrease</td><td class="has-text-align-center" data-align="center">Increase</td><td class="has-text-align-center" data-align="center">Decrease</td><td class="has-text-align-center" data-align="center">Decrease</td></tr><tr><td class="has-text-align-center" data-align="center">Medium</td><td class="has-text-align-center" data-align="center">Medium</td><td class="has-text-align-center" data-align="center">Medium</td><td class="has-text-align-center" data-align="center">Medium</td><td class="has-text-align-center" data-align="center">Medium</td><td class="has-text-align-center" data-align="center">Medium</td></tr><tr><td class="has-text-align-center" data-align="center">High</td><td class="has-text-align-center" data-align="center">Hard</td><td class="has-text-align-center" data-align="center">Increase</td><td class="has-text-align-center" data-align="center">Decrease</td><td class="has-text-align-center" data-align="center">Increase</td><td class="has-text-align-center" data-align="center">Increase</td></tr></tbody></table><figcaption class="wp-element-caption">Badminton racket string tension chart</figcaption></figure>
+| **String tension** | **Power** | **Control** | **Durability** | **Feel** | **Vibration** |
+| --- | --- | --- | --- | --- | --- |
+| Low | Easy | Decrease | Increase | Decrease | Decrease |
+| Medium | Medium | Medium | Medium | Medium | Medium |
+| High | Hard | Increase | Decrease | Increase | Increase |
+
+Badminton racket string tension chart
 
 ## How To Check Badminton Racket String Tension
 
@@ -82,9 +82,7 @@ Here is the summarized Badminton racket string tension chart:
 
 To measure the string tension of your badminton racket, you can follow these steps:
 
-<figure class="wp-block-kadence-image kb-image1016_35a2c4-41 size-large kb-image-is-ratio-size">![Check By Badminton Racket String Tension Machine](/wp-content/uploads/2023/12/Check-Badminton-Racket-String-Tension-1024x576.webp)
-
-</figure>
+![Check By Badminton Racket String Tension Machine](/wp-content/uploads/2023/12/Check-Badminton-Racket-String-Tension-1024x576.webp)
 
 Find a specialized string tension measuring device called a stringing machine. These machines are commonly found at badminton pro shops, sports equipment stores, or clubs. If you don't have access to a stringing machine, you can also seek assistance from a professional stringer who can measure the tension for you.
 
@@ -100,9 +98,7 @@ Note the tension reading, which represents the pressure or force applied to the 
 
 Before measuring, ensure your racket is clean and dry. Firmly hold the racket in one hand and tap its head against your other hand's palm. For high-tension rackets, multiple taps may be needed for accuracy. If unsure about the string tension, you can enter an estimated value, and the app will adjust the measurement accordingly.
 
-<figure class="wp-block-kadence-image kb-image1016_bf817b-67 size-large kb-image-is-ratio-size">![Check By Using Mobile Application Stringster](/wp-content/uploads/2023/12/By-Using-Mobile-Application-Stringster-1024x576.webp)
-
-</figure>
+![Check By Using Mobile Application Stringster](/wp-content/uploads/2023/12/By-Using-Mobile-Application-Stringster-1024x576.webp)
 
 To measure the string tension, you need to follow the given tips:
 
@@ -120,9 +116,7 @@ To measure the string tension, you need to follow the given tips:
 
 A general guideline suggests that you should rest your rackets approximately as many times a year as you play per week. For instance, if you play three times a week, you should aim for three restrings per year, assuming your strings haven't broken earlier. If you're using a thinner gauge string with tension over 24 pounds, there's a higher likelihood of experiencing string breakage more frequently.
 
-<figure class="wp-block-kadence-image kb-image1016_a091c8-29 size-large kb-image-is-ratio-size">![How Frequently Should a Badminton Racket Be Restringed?](/wp-content/uploads/2023/12/How-Frequently-Should-a-Badminton-Racket-Be-Restringed-1024x576.webp)
-
-</figure>
+![How Frequently Should a Badminton Racket Be Restringed?](/wp-content/uploads/2023/12/How-Frequently-Should-a-Badminton-Racket-Be-Restringed-1024x576.webp)
 
 However, for advanced players, it is advisable to restring your racket at least once a month, assuming the strings haven't broken before then. This is because, over time, the tension decreases, and the strings lose their optimal performance. The frequency of restringing depends on your playing intensity, string type, and tension preferences.
 

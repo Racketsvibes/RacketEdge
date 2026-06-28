@@ -10,16 +10,6 @@ category: "Tennis Guides"
 featuredImage: "/wp-content/uploads/2025/03/Set-in-Tennis.webp"
 ---
 
-# How Do Tennis Sets Work? The Scoring Rules Explained 2026
-
-*Chris Davies* *|* *Lead Gear Tester* *Last Updated: March 11, 2026*
-
-*[RacketEdge](/) is reader-supported. When you buy through our links, we may earn an affiliate commission.*
-
-<figure class="wp-block-kadence-image kb-image1733_a74dd3-bf size-large">![What is a Set in Tennis?](/wp-content/uploads/2025/03/Set-in-Tennis-1-1024x683.webp)
-
-</figure>
-
 ## **What is a Set in Tennis?** **Summary**
 
 A tennis set is a distinct scoring unit consisting of multiple individual games. To win a standard set, you must win six games and lead your opponent by two.
@@ -66,7 +56,11 @@ If the score reaches 6-6, the normal rules pause. Players will play a special 7-
 
 ### **Key Takeaways: Tie Scenarios**
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><td>**Current Game Score**</td><td>**Next Steps Needed to Win**</td></tr></thead><tbody><tr><td>**5-4**</td><td>Win the next game to win the set 6-4.</td></tr><tr><td>**5-5**</td><td>Must win two consecutive games to win 7-5.</td></tr><tr><td>**6-6**</td><td>Must win a 7-point tiebreak to win 7-6.</td></tr></tbody></table></figure>
+| **Current Game Score** | **Next Steps Needed to Win** |
+| --- | --- |
+| **5-4** | Win the next game to win the set 6-4. |
+| **5-5** | Must win two consecutive games to win 7-5. |
+| **6-6** | Must win a 7-point tiebreak to win 7-6. |
 
 ## **Master the Court with RacketEdge**
 

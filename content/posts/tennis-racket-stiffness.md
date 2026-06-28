@@ -14,13 +14,11 @@ Tennis racquet stiffness is the measurement of a racket to blend with the tennis
 
 For a pro-level tennis game, expert players have decided on a numeric value to measure the tennis racket stiffness. A flexible racket loses energy while transmitting lesser power to the ball and vice versa. 
 
-<figure class="wp-block-kadence-image kb-image713_9b57c6-9a size-large kb-image-is-ratio-size">![Tennsi Racquet Stiffness or Flex](/wp-content/uploads/2023/10/Tennis-Racquet-Stiffness-1-1024x576.webp)
-
-</figure>
+![Tennsi Racquet Stiffness or Flex](/wp-content/uploads/2023/10/Tennis-Racquet-Stiffness-1-1024x576.webp)
 
 A stiffer racket is a must for a beginner, as it allows you to hit the tennis ball easily because of the added power. In addition, tennis racket stiffness is one of the utmost factors to consider to play tennis smoothly.
 
-<figure class="aligncenter size-full"><a href="https://amzn.to/3EfRxFC" target="_blank" rel="nofollow sponsored">![Best Pickleball Shoes](/wp-content/uploads/2025/01/Pickleball-Shoes.webp)</a></figure>
+<a href="https://amzn.to/3EfRxFC" target="_blank" rel="nofollow sponsored">![Best Pickleball Shoes](/wp-content/uploads/2025/01/Pickleball-Shoes.webp)</a>
 
 When choosing a tennis racket, stiffness or flex is a parameter to consider, and it is not just another number of specifications to look at. As you must know how tennis recquest stiffness can impact your tennis game and the performance especially if you are suffering from [tennis elbow, want to know more?](/posts/best-tennis-rackets-for-tennis-elbow) Keep reading. 
 
@@ -36,9 +34,7 @@ Now the question arises: how can one measure the stiffness level, and what are t
 
 Obviously, one can’t measure the tennis racket stiffness without an instrument, or you can’t measure the stiffness by bending the racket; it might break it. For that, multiple manufacturers have built instruments to measure the stiffness of a racket.
 
-<figure class="wp-block-kadence-image kb-image713_68edd4-fc size-full kb-image-is-ratio-size">![How is Racket Stiffness Measured?](/wp-content/uploads/2023/10/How-Is-Racquet-Stiffness-Measured-1.webp)
-
-</figure>
+![How is Racket Stiffness Measured?](/wp-content/uploads/2023/10/How-Is-Racquet-Stiffness-Measured-1.webp)
 
 Before that, you must know that the stiffness measurement is also known as Racket Analysis (RA). The RA ratings range from 40 to 85. On average, a player tends to seek a stiffness of 75. 
 
@@ -62,9 +58,7 @@ A stiffer racket cannot bend, resulting in not swinging the racket forcefully. H
 
 Apart from the standard machine (Babolat RDC machinery), many other equipment are also available in the market. A famous tennis racket manufacturer, Wilson, has built a machine to measure the tennis racket stiffness, measured as stiffness index (SI).
 
-<figure class="wp-block-kadence-image kb-image713_c79675-7b size-full kb-image-is-ratio-size">![Different Methods to Measure Tennis Racket Stiffness](/wp-content/uploads/2023/10/Different-Methods-To-Measure-Racket-Stiffness-1-1.webp)
-
-</figure>
+![Different Methods to Measure Tennis Racket Stiffness](/wp-content/uploads/2023/10/Different-Methods-To-Measure-Racket-Stiffness-1-1.webp)
 
 However, all equipment measurements vary, so sticking to the standard machine would be best.
 
@@ -72,9 +66,7 @@ However, all equipment measurements vary, so sticking to the standard machine wo
 
 Many players asked us about the ongoing myth about tennis elbows caused by using stiffer rackets. For those who don’t know, tennis elbow is a severe pain in the elbow joint due to excessive motion. 
 
-<figure class="wp-block-kadence-image kb-image713_88754c-11 size-large kb-image-is-ratio-size">![Are stiffer rackets causing the Tennis Elbows?](/wp-content/uploads/2023/10/steptodown.com599213-1-1024x683.webp)
-
-</figure>
+![Are stiffer rackets causing the Tennis Elbows?](/wp-content/uploads/2023/10/steptodown.com599213-1-1024x683.webp)
 
 One can’t blame the stiffer racket as this condition is developed over time and with harsh motion. However, a stiffer racket doesn’t cause tennis elbows as it requires less swing and force, but some wrong considerations in a racket can surely cause are
 
@@ -96,7 +88,13 @@ Choosing the best racket according to your needs and preferences is a major shif
 
 The most important aspect to consider when looking for a stiffer racket is its stiffness rating. It will help you choose your desired racket. For your ease, here is the stiffness rating chart to consider.
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-center" data-align="center">**Rating**</th><th class="has-text-align-center" data-align="center">**Stiffness level**</th></tr></thead><tbody><tr><td class="has-text-align-center" data-align="center">45-55</td><td class="has-text-align-center" data-align="center">Flexible </td></tr><tr><td class="has-text-align-center" data-align="center">60-70</td><td class="has-text-align-center" data-align="center">Medium (recommended)</td></tr><tr><td class="has-text-align-center" data-align="center">Above 70</td><td class="has-text-align-center" data-align="center">Stiff </td></tr></tbody></table><figcaption class="wp-element-caption">Tennis Racket Stiffness Ratings Chart</figcaption></figure>
+| **Rating** | **Stiffness level** |
+| --- | --- |
+| 45-55 | Flexible  |
+| 60-70 | Medium (recommended) |
+| Above 70 | Stiff  |
+
+Tennis Racket Stiffness Ratings Chart
 
 ### **2. Head size and shape**
 
@@ -112,9 +110,7 @@ There are three types of head sizes in tennis rackets depending upon the strings
 
 Another important factor to consider is the length of the tennis racket. On average, the size of the tennis racket is 27 inches, which is most commonly used among professional players. Length below 27 inches is not considered a good option as it may lead to health issues.
 
-<figure class="wp-block-kadence-image kb-image713_89201d-7d size-large kb-image-is-ratio-size">![Tennis Racket Length](/wp-content/uploads/2023/10/Tennis-Racket-length-1-1024x576.webp)
-
-</figure>
+![Tennis Racket Length](/wp-content/uploads/2023/10/Tennis-Racket-length-1-1024x576.webp)
 
 ## **Final Verdict**
 

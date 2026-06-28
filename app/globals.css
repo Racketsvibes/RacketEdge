@@ -50,8 +50,11 @@ body {
   font-family: var(--font-body);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
-  padding-bottom: 70px; /* space for sticky bottom bar */
   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+body:has(.sticky-amazon-bottom-bar) {
+  padding-bottom: 70px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -1675,7 +1678,7 @@ a {
 .site-footer {
   background-color: var(--bg-secondary);
   border-top: 1px solid var(--border-color);
-  padding: 64px 0 32px;
+  padding: 64px 0 24px;
   margin-top: 64px;
 }
 
@@ -1760,4 +1763,5 @@ a {
 .copyright-text {
   font-size: 13px;
   color: var(--text-muted);
+  margin-bottom: 0;
 }

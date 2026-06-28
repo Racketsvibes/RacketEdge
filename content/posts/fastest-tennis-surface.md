@@ -14,9 +14,7 @@ When you start playing tennis, control is the thing that you need to master befo
 
 When I started playing tennis I came to know that grass is the fastest tennis surface where I need more control to serve properly but wait, let me discuss all the surfaces in detail. 
 
-<figure class="wp-block-kadence-image kb-image1333_71e2d3-8d size-full kb-image-is-ratio-size">![Fastest Tennis Surface](/wp-content/uploads/2024/02/Fastest-Tennis-Surface.webp)
-
-</figure>
+![Fastest Tennis Surface](/wp-content/uploads/2024/02/Fastest-Tennis-Surface.webp)
 
 Most commonly three types of tennis surfaces are used to play tennis. These types are Grass courts, Clay courts, and Hard courts. All these surface courts are specifically designed for different types of tennis tournaments like Wimbledon, the French Open Grand Slams, and many others.
 
@@ -28,9 +26,7 @@ Tennis is a very popular game and is played at national and international levels
 
 The clay courts are normally made of bricks and crushed stones with a layer of unbound material on the top of the surface. Most clay courts are of two types: Red clay courts and Green clay courts. 
 
-<figure class="wp-block-kadence-image kb-image1333_af8e94-9f size-full kb-image-is-ratio-size">![Clay Court](/wp-content/uploads/2024/02/Clay-Tennis-Court-Surface.webp)
-
-</figure>
+![Clay Court](/wp-content/uploads/2024/02/Clay-Tennis-Court-Surface.webp)
 
 This [tennis court](/posts/tennis-court-dimensions) is mostly popular in America and the French Open Grand Slam is often played on that kind of surface. By slowing down the ball this surface hits a high bounce. The surface is mostly suitable for the baseline players and for those who like to play tactically using a lot of spins. 
 
@@ -44,9 +40,7 @@ Not all players love clay courts because they absorb quite alot of energy result
 
 The Grass surface is the traditional lawn surface and is famous for playing in the Wimbledon tennis tournament. It is considered the signature surface of Wimbledon. It's not working these days because too much care and maintenance is required to keep this surface ready for playing. 
 
-<figure class="wp-block-kadence-image kb-image1333_bb97b6-cd size-full kb-image-is-ratio-size">![Grass Court](/wp-content/uploads/2024/02/Grass-Tennis-Court-Surface.webp)
-
-</figure>
+![Grass Court](/wp-content/uploads/2024/02/Grass-Tennis-Court-Surface.webp)
 
 It is a quick surface and the ball bounces low on this. The players need to get the ball quicker than on clay and hard surfaces. Grass courts are in favor of big serve and are beneficial for those players who want to remain near the net. 
 
@@ -62,9 +56,7 @@ The grass tennis court is a signature choice of Wimbolden and the top players li
 
 Hard Court or surface is normally made of acrylic layers on the top of the asphalt foundation. It is the hardest surface for playing tennis. Rubber and resin are also used in the construction of this surface. 
 
-<figure class="wp-block-kadence-image kb-image1333_43d92c-4f size-full kb-image-is-ratio-size">![Hard Tennis Court](/wp-content/uploads/2024/02/Hard-Tennis-Court-Surface.webp)
-
-</figure>
+![Hard Tennis Court](/wp-content/uploads/2024/02/Hard-Tennis-Court-Surface.webp)
 
 The ball speed on that surface depends on the sand present on the top of the surface. The serve speed on that court is faster than clay court and lower than grass court. Slam tournaments are played on that surface. 
 
@@ -86,9 +78,7 @@ Some players claim that extra humility causes the slowdown of play. But normally
 
 Ball also affects play and fluffy ones are selected for playing. When the pressure on the ball is high it will make a higher bounce. Balls slow down after the longer uses, Therefore they changed after every nine games in a pro match. Balls are used accordingly with their suitability for playing on any surface. 
 
-<figure class="wp-block-kadence-image kb-image1333_0dee8c-21 size-full kb-image-is-ratio-size">![Tennis Balls](/wp-content/uploads/2024/02/Tennis-Balls.webp)
-
-</figure>
+![Tennis Balls](/wp-content/uploads/2024/02/Tennis-Balls.webp)
 
 ## **Specialty of Grass Court: What Makes it So Fast? **
 

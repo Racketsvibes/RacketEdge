@@ -213,8 +213,53 @@ function parseDatabase(sqlPath, prefix, targetTables) {
 function cleanHtmlToMarkdown(html, validSlugs, baseUrl = "racketedge.com") {
     if (!html) return "";
     
+    // Convert Kadence single buttons to HTML links before comments are stripped
+    let buttonRegex = /<!--\s*wp:kadence\/singlebtn\s*({[\s\S]*?})\s*\/-->/gi;
+    html = html.replace(buttonRegex, (m, jsonStr) => {
+        try {
+            const data = JSON.parse(jsonStr.trim());
+            const link = data.link || "#";
+            let text = data.text || "View on Amazon";
+            text = text.replace(/<[^>]+>/g, '').trim();
+            return `<a href="${link}" target="_blank" rel="nofollow sponsored" class="product-cta-btn">${text}</a>`;
+        } catch (e) {
+            const linkMatch = jsonStr.match(/"link"\s*:\s*"([^"]+)"/);
+            const textMatch = jsonStr.match(/"text"\s*:\s*"([^"]+)"/);
+            const link = linkMatch ? linkMatch[1] : "#";
+            let text = textMatch ? textMatch[1] : "View on Amazon";
+            text = text.replace(/\\u003c[^>]+\\u003e/g, '').replace(/<[^>]+>/g, '').trim();
+            return `<a href="${link}" target="_blank" rel="nofollow sponsored" class="product-cta-btn">${text}</a>`;
+        }
+    });
+
     // 1. Clean Gutenberg comments
     let md = html.replace(/<!--[\s\S]*?-->/g, '');
+    
+    // Convert HTML tables to Markdown tables
+    md = md.replace(/<table[^>]*>([\s\S]*?)<\/table>/gi, (m, tableContent) => {
+        let markdownTable = "\n\n";
+        const rows = [];
+        const trMatches = tableContent.matchAll(/<tr[^>]*>([\s\S]*?)<\/tr>/gi);
+        for (const trMatch of trMatches) {
+            const rowCells = [];
+            const cellMatches = trMatch[1].matchAll(/<(?:td|th)[^>]*>([\s\S]*?)<\/(?:td|th)>/gi);
+            for (const cellMatch of cellMatches) {
+                rowCells.push(cellMatch[1].trim().replace(/\n+/g, ' '));
+            }
+            if (rowCells.length > 0) rows.push(rowCells);
+        }
+        if (rows.length === 0) return "";
+        const numCols = Math.max(...rows.map(r => r.length));
+        const header = rows[0];
+        markdownTable += "| " + header.join(" | ") + " |\n";
+        markdownTable += "| " + Array(numCols).fill("---").join(" | ") + " |\n";
+        for (let i = 1; i < rows.length; i++) {
+            const row = rows[i];
+            while (row.length < numCols) row.push("");
+            markdownTable += "| " + row.join(" | ") + " |\n";
+        }
+        return markdownTable + "\n\n";
+    });
     
     // 2. Headings and basic HTML elements
     md = md.replace(/<h1[^>]*>([\s\S]*?)<\/h1>/gi, '\n\n# $1\n\n');
@@ -280,7 +325,9 @@ function cleanHtmlToMarkdown(html, validSlugs, baseUrl = "racketedge.com") {
             }
         } else {
             // External links
-            if (href.includes("amazon.com") || href.includes("amzn.to")) {
+            if (m.includes('class="product-cta-btn"') || m.includes("product-cta-btn")) {
+                return `<a href="${href}" target="_blank" rel="nofollow sponsored" class="product-cta-btn">${text}</a>`;
+            } else if (href.includes("amazon.com") || href.includes("amzn.to")) {
                 return `<a href="${href}" target="_blank" rel="nofollow sponsored">${text}</a>`;
             } else {
                 return `<a href="${href}" target="_blank">${text}</a>`;
@@ -289,7 +336,15 @@ function cleanHtmlToMarkdown(html, validSlugs, baseUrl = "racketedge.com") {
     });
     
     // 6. Cleanups
-    md = md.replace(/<\/?(?:div|section|span|iframe)[^>]*>/gi, '');
+    md = md.replace(/<\/?(?:div|section|span|iframe|figure|figcaption|thead|tbody|tfoot|table|tr|td|th)[^>]*>/gi, '');
+    md = md.replace(/<br\s*\/?>/gi, '\n');
+    
+    // Clean up bold/italic literal arrow bullet markers
+    md = md.replace(/\*\*\*?>\*\*\*/g, '- ')
+           .replace(/\*\*\*?&gt;\*\*\*/g, '- ')
+           .replace(/\*\*>\*\*/g, '- ')
+           .replace(/\*\*&gt;\*\*/g, '- ');
+
     md = md.replace(/\n{3,}/g, '\n\n');
     
     // HTML entity decode
@@ -498,7 +553,58 @@ function runMigration() {
         
         console.log(`Processing: [${ptype.toUpperCase()}] '${title}' (slug: ${slug})...`);
         const rawMarkdownBody = cleanHtmlToMarkdown(content, validSlugs);
-        const markdownBody = replaceBannedWords(rawMarkdownBody);
+        let cleanedMarkdown = replaceBannedWords(rawMarkdownBody);
+        
+        // Remove duplicate starting elements (title, author byline, disclosure, duplicate featured image)
+        let lines = cleanedMarkdown.split('\n');
+        let i = 0;
+        while (i < lines.length && i < 15) {
+            const line = lines[i].trim();
+            if (line === "") {
+                i++;
+                continue;
+            }
+            
+            // 1. Is it a header matching or overlapping with the title?
+            if (line.startsWith('#')) {
+                const headingText = line.replace(/^#+\s+/, '').trim().toLowerCase();
+                const cleanTitleText = title.toLowerCase().replace(/&amp;/g, '&').replace(/&quot;/g, '"');
+                if (cleanTitleText.includes(headingText) || headingText.includes(cleanTitleText) || headingText.startsWith(cleanTitleText.substring(0, 15))) {
+                    lines[i] = ""; // remove
+                    i++;
+                    continue;
+                }
+            }
+            
+            // 2. Is it the author byline?
+            if (line.includes("Chris Davies") || line.includes("Lead Gear Tester")) {
+                lines[i] = ""; // remove
+                i++;
+                continue;
+            }
+            
+            // 3. Is it the affiliate disclosure?
+            if (line.includes("reader-supported") || line.includes("affiliate commission")) {
+                lines[i] = ""; // remove
+                i++;
+                continue;
+            }
+            
+            // 4. Is it the duplicate featured image?
+            if (line.startsWith('![') && line.endsWith(')')) {
+                if (featuredImage) {
+                    const imgPath = featuredImage.split('/').pop().split('.')[0];
+                    if (line.includes(imgPath)) {
+                        lines[i] = ""; // remove
+                        i++;
+                        continue;
+                    }
+                }
+            }
+            
+            break; // Stop at first line that doesn't match
+        }
+        const markdownBody = lines.join('\n').trim();
         
         const cleanTitle = replaceBannedWords(title);
         const cleanSeoTitle = replaceBannedWords(seoTitle);

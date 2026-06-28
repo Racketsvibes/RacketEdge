@@ -16,9 +16,7 @@ That seemingly simple piece of net actually has a huge impact on how the game un
 
 The Standard **tennis net height** is at **42 inches at the posts and 36 inches at the center**. These ITF Tennis net height regulations are your blueprint for crafting the perfect court setup. 
 
-<figure class="wp-block-kadence-image kb-image1072_161fa1-ca size-large kb-image-is-ratio-size">![Tennis net height](/wp-content/uploads/2024/01/Tennis-Net-Height-1024x576.webp)
-
-</figure>
+![Tennis net height](/wp-content/uploads/2024/01/Tennis-Net-Height-1024x576.webp)
 
 In this article, we're going to break down the tennis net dimensions in detail. We’ll cover everything from how high it should be at the posts to the dip in the middle. 
 
@@ -44,7 +42,14 @@ When setting a Tennis net on the court, just follow these **ITF guidelines**. Co
 
 ## **Tennis Net Height For Singles **
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th class="has-text-align-left" data-align="left">**Height **</th><th class="has-text-align-left" data-align="left">**At Net Centre **</th><th class="has-text-align-left" data-align="left">**At Net Posts **</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left">**Feet **</td><td class="has-text-align-left" data-align="left">3 feet</td><td class="has-text-align-left" data-align="left">3.5 feet (3’6’’)</td></tr><tr><td class="has-text-align-left" data-align="left">**Centimetre **</td><td class="has-text-align-left" data-align="left">91.4 cm</td><td class="has-text-align-left" data-align="left">107 cm</td></tr><tr><td class="has-text-align-left" data-align="left">**Meter **</td><td class="has-text-align-left" data-align="left">0.914 m</td><td class="has-text-align-left" data-align="left">1.07 m</td></tr><tr><td class="has-text-align-left" data-align="left">**Inches **</td><td class="has-text-align-left" data-align="left">36 inches </td><td class="has-text-align-left" data-align="left">42 inches</td></tr></tbody></table><figcaption class="wp-element-caption">Tennis Net Height For Singles Chart</figcaption></figure>
+| **Height ** | **At Net Centre ** | **At Net Posts ** |
+| --- | --- | --- |
+| **Feet ** | 3 feet | 3.5 feet (3’6’’) |
+| **Centimetre ** | 91.4 cm | 107 cm |
+| **Meter ** | 0.914 m | 1.07 m |
+| **Inches ** | 36 inches  | 42 inches |
+
+Tennis Net Height For Singles Chart
 
 ## Tennis Net Height For Doubles
 
@@ -66,7 +71,14 @@ As they advance to the Orange Division, the net height becomes standard at 3 fee
 
 Just to make it easy for you, here's a quick table summarising the net heights at each junior stage:
 
-<figure style="font-size:17px" class="wp-block-table"><table><thead><tr><th>**Height **</th><th>**Stage Red (8 and under)**</th><th>**Stage Orange, Green, Yellow**</th></tr></thead><tbody><tr><td>**Centimetre **</td><td>83.82 cm</td><td>107 cm (91.4 cm at centre)</td></tr><tr><td>**Meter **</td><td>0.8382 m</td><td>1.07 m (0.91 m at centre)</td></tr><tr><td>**Inches **</td><td>33 inches</td><td>42 inches (36 inches at center) </td></tr><tr><td>**Feet **</td><td>2.75 feet (2’9’’)</td><td>3.5 feet (3’6’’) (3’ at center)</td></tr></tbody></table><figcaption class="wp-element-caption">Tennis Net Height For Juniors Chart</figcaption></figure>
+| **Height ** | **Stage Red (8 and under)** | **Stage Orange, Green, Yellow** |
+| --- | --- | --- |
+| **Centimetre ** | 83.82 cm | 107 cm (91.4 cm at centre) |
+| **Meter ** | 0.8382 m | 1.07 m (0.91 m at centre) |
+| **Inches ** | 33 inches | 42 inches (36 inches at center)  |
+| **Feet ** | 2.75 feet (2’9’’) | 3.5 feet (3’6’’) (3’ at center) |
+
+Tennis Net Height For Juniors Chart
 
 ## **The Reason Behind Lowered Height in the Middle**
 
@@ -80,9 +92,7 @@ The lower middle encourages longer rallies, and we, as players, give a more ente
 
 Why Do You Need to Know About the Tennis Net's Height? In tennis, the net is a big deal. It can either help you ace the game or cause a defeat in it. A slightly touched net can change how the game goes, affecting rallies and attacks. Without the net, tennis wouldn't be as exciting.
 
-<figure class="wp-block-kadence-image kb-image1072_dad522-1f size-large kb-image-is-ratio-size">![How Tennis Net Height Impacts Serve And Volley](/wp-content/uploads/2024/01/Tennis-Serves-1024x576.webp)
-
-</figure>
+![How Tennis Net Height Impacts Serve And Volley](/wp-content/uploads/2024/01/Tennis-Serves-1024x576.webp)
 
 - **Safe and Easy Shots Strategy **
 
@@ -110,9 +120,9 @@ Understanding these differences adds an extra layer of insight for players. This
 
 Pickleball has become really popular lately, attracting both tennis fans and new players. If you're switching from tennis to pickleball, it's important to know that pickleball nets are a bit shorter than tennis nets.
 
-<figure class="wp-block-kadence-image kb-image1072_7ab090-78 size-large kb-image-is-ratio-size"><a href="https://dimensions.com/element/pickleball-net" target="_blank">![Picklebaal Net Height](/wp-content/uploads/2024/01/Pickleball-Net-Height-1024x576.webp)
+<a href="https://dimensions.com/element/pickleball-net" target="_blank">![Picklebaal Net Height](/wp-content/uploads/2024/01/Pickleball-Net-Height-1024x576.webp)
 
-</a><figcaption>Image credit: Dimentions.com</figcaption></figure>
+</a>Image credit: Dimentions.com
 
 According to the USA Pickleball Association (USAPA), the sides of a tennis net are six inches higher than a <a href="https://amzn.to/47ltheg" target="_blank" rel="nofollow sponsored">pickleball net</a>, and the center is only two inches higher. So, the net on a pickleball court is 36 inches high on the sidelines and 34 inches high in the middle.
 

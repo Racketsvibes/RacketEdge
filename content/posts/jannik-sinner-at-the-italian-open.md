@@ -10,29 +10,21 @@ category: "Tennis"
 featuredImage: "/wp-content/uploads/2026/05/Jannik-Sinner-at-the-Italian-Open-2026.webp"
 ---
 
-# Jannik Sinner at the Italian Open 2026: Tournament Updates
-
-*Chris Davies* *|* *Lead Gear Tester* *Last Updated: May 12, 2026*
-
-*[RacketEdge](/) is reader-supported. When you buy through our links, we may earn an affiliate commission.*
-
 Jannik Sinner has successfully reached the quarterfinals of the 2026 Italian Open. He remains undefeated and has tied Novak Djokovic’s record for 31 consecutive Masters 1000 match wins.
 
 ## **Sinner's Current Status in Rome**
 
 Jannik Sinner is actively competing and dominating at the 2026 Italian Open in Rome. The World No. 1 advanced to the quarterfinals after defeating Andrea Pellegrino in straight sets. He is currently the heavy favorite to win his home country's most prestigious tennis tournament.
 
-<figure class="wp-block-kadence-image kb-image3094_2c61ba-e7 size-large">![Jannik Sinner at the Italian Open 2026](/wp-content/uploads/2026/05/Jannik-Sinner-at-the-Italian-Open-2026-1024x683.webp)
+<a href="https://amzn.to/4diTm2n" target="_blank" rel="nofollow sponsored" class="product-cta-btn">Sinner's Racket: Head Speed MP 2026 (View on Amazon)</a>
 
-</figure>
+![Jannik Sinner at the Italian Open 2026](/wp-content/uploads/2026/05/Jannik-Sinner-at-the-Italian-Open-2026-1024x683.webp)
 
 ## **The Historic Winning Streak**
 
 Sinner is currently experiencing one of the greatest runs in tennis history. His recent victory marks his 31st consecutive win at the ATP Masters 1000 level. This incredible achievement perfectly ties the all-time record set by Novak Djokovic in 2011. Sinner has not lost a Masters 1000 match since the 2025 Paris Masters.
 
-<figure class="wp-block-kadence-image kb-image3094_12b97f-a2 size-large">![Sinner](/wp-content/uploads/2026/05/Jannik-Sinner-1000-Wins-1024x683.webp)
-
-</figure>
+![Sinner](/wp-content/uploads/2026/05/Jannik-Sinner-1000-Wins-1024x683.webp)
 
 This dominance proves he is fully fit and playing with absolute confidence. He has already captured Masters titles in Indian Wells, Miami, Monte-Carlo, and Madrid this season. He is attempting to become the first man to win five consecutive Masters 1000 titles. If you want to understand tournament tiers, read our guide on the [**Italian Open tennis tournament**.](/posts/italian-open-tennis-tournament)
 

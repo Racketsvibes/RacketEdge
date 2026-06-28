@@ -12,9 +12,7 @@ featuredImage: "/wp-content/uploads/2023/11/Tennis-Racket-Weight.webp"
 
 Even an ounce or gram difference in racket weight can impact your performance and cause injury. But with all the options, selecting the right-weight tennis racket is tricky. Don't worry; the ideal weight for a [tennis racket](/posts/best-tennis-rackets) is between 10 and 11.5 ounces (280 to 325 grams), from providing power and stability to more maneuverability for quick volleys and returns.
 
-<figure class="wp-block-kadence-image kb-image786_7e703c-13 size-full kb-image-is-ratio-size">![Tennis Racquet Weight ](/wp-content/uploads/2023/11/Featured-image-of-Tennis-Racket-Weight.jpg)
-
-</figure>
+![Tennis Racquet Weight ](/wp-content/uploads/2023/11/Featured-image-of-Tennis-Racket-Weight.jpg)
 
 But the question is, what are the criteria based on which we should pick the correct weight tennis racket? And which racket weight is suitable for you? If you want to know in detail, maintain the reading.
 
@@ -114,7 +112,13 @@ The minimal mass also provides less shock absorption on off-center hits. You'll 
 
 ## **Summary Table of Tennis Racket Weights**
 
-<figure class="wp-block-table" style="font-size:17px"><table><thead><tr><th>**Racket Weight**</th><th>**Light (<10oz)**</th><th>**Medium (10-11oz)**</th><th>**Heavy (>11oz)**</th></tr></thead><tbody><tr><td>**Benefits**</td><td>Quick maneuverability, racquet head speed for spin and control, reduced arm fatigue</td><td>Balanced power and control suit all-court games</td><td>Maximum power on groundstrokes and serves, plow-through, stability</td></tr><tr><td>**Considerations**</td><td>Lacks stability on big swings, increased vibration, requires precise timing</td><td>Not specialized for extreme power or finesse, a compromise</td><td>Requires strong physique and swing speed, fatigue, reduced maneuverability</td></tr><tr><td>**Best Suited For**</td><td>Juniors, finesse players, 1-handed backhands, injury recovery</td><td>All-around & intermediate players, singles and doubles</td><td>Big hitters, aggressive baseliners, advanced power players</td></tr></tbody></table><figcaption class="wp-element-caption">Tennis Racket Weight Summary Table</figcaption></figure>
+| **Racket Weight** | **Light (<10oz)** | **Medium (10-11oz)** | **Heavy (>11oz)** |
+| --- | --- | --- | --- |
+| **Benefits** | Quick maneuverability, racquet head speed for spin and control, reduced arm fatigue | Balanced power and control suit all-court games | Maximum power on groundstrokes and serves, plow-through, stability |
+| **Considerations** | Lacks stability on big swings, increased vibration, requires precise timing | Not specialized for extreme power or finesse, a compromise | Requires strong physique and swing speed, fatigue, reduced maneuverability |
+| **Best Suited For** | Juniors, finesse players, 1-handed backhands, injury recovery | All-around & intermediate players, singles and doubles | Big hitters, aggressive baseliners, advanced power players |
+
+Tennis Racket Weight Summary Table
 
 ## **Conclusion on Finding the Right Balance**
 

@@ -14,9 +14,9 @@ What if I tell you that knowing tennis court dimensions is as important as playi
 
 It is crucial for tennis players, coaches, and enthusiasts to understand the dimensions and size of a tennis court as they learn how to play with a [tennis racket](/posts/best-tennis-rackets). You need to know exactly what measurements and specifications a tennis court has if you want to play the game to the best of your abilities. 
 
-<figure class="wp-block-kadence-image kb-image1321_5d075e-60 size-large kb-image-is-ratio-size">![Tennis Court Dimensions Diagram](/wp-content/uploads/2024/02/5eb898f3631a1ec3b81b8030_Dimensions-Guide-Sports-Tennis-Court-Dimensions-1024x512.webp)
+![Tennis Court Dimensions Diagram](/wp-content/uploads/2024/02/5eb898f3631a1ec3b81b8030_Dimensions-Guide-Sports-Tennis-Court-Dimensions-1024x512.webp)
 
-<figcaption>Image Credit: Dimensions.com</figcaption></figure>
+Image Credit: Dimensions.com
 
 Let’s go ahead and discuss tennis court dimensions with various factors like court size, [net height](/posts/tennis-net-height), as well as other important aspects.
 
@@ -26,7 +26,12 @@ Dimensions of tennis courts can vary depending on their type, surface, and level
 
 **Tennis courts are 78ft (23.77m) long. A singles court measures 27 feet (8.23 metres) in width, while a doubles court measures 36 feet (10.97 metres). From the net, the service line is 21 ft (6.4 m).**
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Tennis Court Measurement</th><th>Tennis Court Size in Feet</th><th>Tennis Court Size Meters</th></tr></thead><tbody><tr><td>Court Length</td><td>78 ft</td><td>23.77 m</td></tr><tr><td>Singles Court Width</td><td>27 ft</td><td>8.23 m</td></tr><tr><td>Doubles Court Width</td><td>36 ft</td><td>10.97 m</td></tr><tr><td>Service Line Distance from Net</td><td>21 ft</td><td>6.40 m</td></tr></tbody></table></figure>
+| Tennis Court Measurement | Tennis Court Size in Feet | Tennis Court Size Meters |
+| --- | --- | --- |
+| Court Length | 78 ft | 23.77 m |
+| Singles Court Width | 27 ft | 8.23 m |
+| Doubles Court Width | 36 ft | 10.97 m |
+| Service Line Distance from Net | 21 ft | 6.40 m |
 
 Doubles Tennis courts typically have 260.87 metre squares of playing area. Singles courts, which are often marked within doubles courts, are 195.65 square metres in terms of area.
 

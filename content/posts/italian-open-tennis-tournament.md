@@ -14,9 +14,7 @@ Planning to attend the 2026 Italian Open, officially known as the **Internaziona
 
 ***Read Expert Review: [Best Tennis Rackets](/posts/best-tennis-rackets)***
 
-<figure class="aligncenter size-full">![Italian Open Tennis 2026](/wp-content/uploads/2025/07/Italian-1.webp)
-
-</figure>
+![Italian Open Tennis 2026](/wp-content/uploads/2025/07/Italian-1.webp)
 
 ## Italian Open Champions List 2025
 
@@ -84,7 +82,14 @@ This surface is a true test for any player, requiring excellent footwork and sta
 
 The **2026 Italian Open** will continue to offer significant prize money to competitors, attracting the best talent in both men’s and women’s tennis. The total prize pool for the 2025 tournament was set to **€8,055,385**, distributed across the singles and doubles events for both genders.
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><th>Category</th><th>Winner (€)</th><th>Runner-up (€)</th><th>Semi-finalists (€)</th><th>Quarter-finalists (€)</th></tr></thead><tbody><tr><td>**Men's Singles**</td><td>985,030</td><td>650,000</td><td>400,000</td><td>225,000</td></tr><tr><td>**Women's Singles**</td><td>963,225</td><td>391,680</td><td>215,000</td><td>160,000</td></tr><tr><td>**Men's Doubles (per team)**</td><td>391,680</td><td>196,000</td><td>105,000</td><td>65,000</td></tr><tr><td>**Women's Doubles (per team)**</td><td>212,060</td><td>105,000</td><td>55,000</td><td>32,000</td></tr></tbody></table><figcaption class="wp-element-caption">Italian Open Tennis Prize Money table</figcaption></figure>
+| Category | Winner (€) | Runner-up (€) | Semi-finalists (€) | Quarter-finalists (€) |
+| --- | --- | --- | --- | --- |
+| **Men's Singles** | 985,030 | 650,000 | 400,000 | 225,000 |
+| **Women's Singles** | 963,225 | 391,680 | 215,000 | 160,000 |
+| **Men's Doubles (per team)** | 391,680 | 196,000 | 105,000 | 65,000 |
+| **Women's Doubles (per team)** | 212,060 | 105,000 | 55,000 | 32,000 |
+
+Italian Open Tennis Prize Money table
 
 This generous prize pool ensures that players who make it deep into the tournament are well-compensated for their efforts. It also helps elevate the tournament’s status as one of the highest-paying on both the **ATP** and **WTA** tours.
 
@@ -144,9 +149,7 @@ The **2026 Internazionali BNL d’Italia** will take place from **April 28 to Ma
 
 The tournament will feature both men's and women's singles and doubles matches, culminating in the thrilling finals on **May 17, 2026**. Whether you're attending in person or following from home, the 2026 Italian Open promises to be an unforgettable tennis spectacle.
 
-<figure class="aligncenter size-full">![2026 Italian Open Tournament Schedule](/wp-content/uploads/2025/07/italian.png)
-
-</figure>
+![2026 Italian Open Tournament Schedule](/wp-content/uploads/2025/07/italian.png)
 
 This schedule will offer an exciting lineup of matches, with the tournament spanning across three weeks of high-quality tennis action. Stay tuned for more updates and get ready for a sensational event at one of tennis’ most revered locations!
 

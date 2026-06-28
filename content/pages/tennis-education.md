@@ -13,9 +13,7 @@ At [RacketEdge](/), our mission is to raise the standard of coaching and player 
 
 That is why, alongside our **annual tennis education conference**, we provide **specialized sport science workshops** designed for coaches, trainers, and enthusiasts who want to take their expertise to the next level.
 
-<figure class="aligncenter size-full">![Education and Training Workshops](/wp-content/uploads/2025/08/Education-and-Training.webp)
-
-</figure>
+![Education and Training Workshops](/wp-content/uploads/2025/08/Education-and-Training.webp)
 
 ## Why Tennis Education Matters
 

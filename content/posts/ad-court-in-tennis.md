@@ -14,9 +14,7 @@ If you’ve ever watched or played a game of tennis, you’ve likely heard terms
 
 In this article, we’ll dive into the ad court—what it is, how it got its name, and why practicing serves from this side can elevate your performance. Plus, I’ll share some personal experiences and recommendations to help you make the most of your time on the court.
 
-<figure class="wp-block-kadence-image kb-image1695_5d671b-08 size-large">![Ad Court in Tennis](/wp-content/uploads/2025/02/Base-1-1024x575.webp)
-
-</figure>
+![Ad Court in Tennis](/wp-content/uploads/2025/02/Base-1-1024x575.webp)
 
 ## What Is the Ad Court?
 

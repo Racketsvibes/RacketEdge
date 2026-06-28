@@ -10,12 +10,6 @@ category: "Tennis Rackets"
 featuredImage: "/wp-content/uploads/2026/03/Carlos-Alcaraz-racket-specs-1.webp"
 ---
 
-# Carlos Alcaraz Racket 2026: Exact Specs & Strings
-
-*Chris Davies* *|* *Lead Gear Tester* *Last Updated: May 23, 2026*
-
-*[RacketEdge](/) is reader-supported. When you buy through our links, we may earn an affiliate commission.*
-
 ## Carlos's Racket Specs Summary
 
 In 2026, Carlos Alcaraz uses a customized pro-stock version of the Babolat Pure Aero 98.
@@ -30,9 +24,9 @@ In 2026, Carlos Alcaraz uses a customized pro-stock version of the Babolat Pure 
 
 - **Grip:** Babolat Syntec Pro base with VS Original overgrip
 
-<figure class="wp-block-kadence-image kb-image2970_7d76d3-5c size-large">![Carlos Alcaraz Racket 2026](/wp-content/uploads/2026/03/Carlos-Alcaraz-racket-specs-1-1024x683.webp)
+<a href="https://amzn.to/4lwEl0U" target="_blank" rel="nofollow sponsored" class="product-cta-btn">View on Amazon</a>
 
-</figure>
+![Carlos Alcaraz Racket 2026](/wp-content/uploads/2026/03/Carlos-Alcaraz-racket-specs-1-1024x683.webp)
 
 ## **Understanding His Custom Specifications**
 
@@ -81,7 +75,15 @@ If you want spin, buy the retail Pure Aero. If you need forgiveness, look at sof
 
 ### **Key Takeaways: Alcaraz Exact Specs**
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><td>**Specification**</td><td>**Alcaraz Custom Setup**</td><td>**Standard Retail Racket**</td></tr></thead><tbody><tr><td>**Head Size**</td><td>98 sq in</td><td>98 sq in</td></tr><tr><td>**String Pattern**</td><td>16x20</td><td>16x20</td></tr><tr><td>**Unstrung Weight**</td><td>~320 grams</td><td>305 grams</td></tr><tr><td>**String Tension**</td><td>55 lbs / 51 lbs</td><td>Player Preference</td></tr><tr><td>**Swing Weight**</td><td>~335+</td><td>327</td></tr></tbody></table></figure>
+| **Specification** | **Alcaraz Custom Setup** | **Standard Retail Racket** |
+| --- | --- | --- |
+| **Head Size** | 98 sq in | 98 sq in |
+| **String Pattern** | 16x20 | 16x20 |
+| **Unstrung Weight** | ~320 grams | 305 grams |
+| **String Tension** | 55 lbs / 51 lbs | Player Preference |
+| **Swing Weight** | ~335+ | 327 |
+
+<a href="https://amzn.to/4uo9441" target="_blank" rel="nofollow sponsored" class="product-cta-btn">View on Amazon</a>
 
 ## **The Secret to His Grip Setup**
 

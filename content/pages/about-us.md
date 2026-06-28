@@ -9,8 +9,6 @@ focusKeyword: "About"
 category: "General"
 ---
 
-# ABOUT
-
 *RacketEdge.com*
 
 ## Meet The Founder
@@ -35,9 +33,7 @@ I specialize in putting rackets through "stress tests" to answer the questions t
 
 If I haven't played a competitive set with a racket, you won't see it recommended on this site.
 
-<figure class="wp-block-image aligncenter size-full">![Tennis Author - Chris Davies](/wp-content/uploads/2026/01/cropped-Author-1.webp)
-
-</figure>
+![Tennis Author - Chris Davies](/wp-content/uploads/2026/01/cropped-Author-1.webp)
 
 ## How We Test Gear?
 

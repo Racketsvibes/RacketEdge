@@ -14,9 +14,7 @@ In Tennis, a slight difference in angle, court position, swing, and reflexes can
 
 There are multiple factors involved in hitting a tennis ball at high speeds, such as the player's strength and conditioning, [the type of shot](/posts/types-of-tennis-shots) - serves vs. groundstrokes, the use of topspin or backspin, the court surface, whether it's grass, clay, or hardcourt, and the ball inflation and felt condition.
 
-<figure class="wp-block-kadence-image kb-image964_de8bc6-cb size-large kb-image-is-ratio-size">![How Fast Does a Tennis Ball Go](/wp-content/uploads/2023/11/How-Fast-Does-a-Tennis-Ball-Go-1024x576.webp)
-
-</figure>
+![How Fast Does a Tennis Ball Go](/wp-content/uploads/2023/11/How-Fast-Does-a-Tennis-Ball-Go-1024x576.webp)
 
 Also, it doesn’t matter whether you're playing tennis with a wooden [tennis racket](/posts/best-tennis-rackets) or a modern one, but we all want to know some queries: how can I hit the ball faster and harder? How do your shots compare, and what factors go into shooting faster? Are you leaving speed out on the court?
 
@@ -36,9 +34,7 @@ Tennis has three main types of shots: the serve, the forehand, and the backhand.
 
 The fastest shots are called serves. When players hit the ball for their first serve, they make it go super fast by plugging it in a certain way, either flat or sliced. Because these serves are so speedy, the player serving usually has a better chance of winning the point. The person trying to return the ball often finds it challenging to hit it back in a way that causes problems for the server.
 
-<figure class="wp-block-kadence-image kb-image964_385aba-9d size-large kb-image-is-ratio-size">![Fast Tennis Serve](/wp-content/uploads/2023/11/Serve-in-Tennis-1024x576.webp)
-
-</figure>
+![Fast Tennis Serve](/wp-content/uploads/2023/11/Serve-in-Tennis-1024x576.webp)
 
 #### **Average Serve Speeds in Men's Tennis**
 
@@ -52,15 +48,24 @@ After Berrettini, the speeds of the serves by other players are similar. So, Zve
 
 The fastest tennis serve ever hit by a guy was super speedy at 163 miles per hour (263 kilometers per hour). Sam Groth did this excellent serve in 2012 at the Busan Open Challenger. Even though it was the fastest ace in tennis history, the ATP (Association of Tennis Professionals) doesn't officially count speeds from Challenger events.
 
-<figure class="wp-block-kadence-image kb-image964_6f9be7-2b size-large kb-image-is-ratio-size">![Fastest Serves in Men](/wp-content/uploads/2023/11/Fastest-Serve-in-Mens-Tennis_-Sam-Groth-1024x576.webp)
-
-</figure>
+![Fastest Serves in Men](/wp-content/uploads/2023/11/Fastest-Serve-in-Mens-Tennis_-Sam-Groth-1024x576.webp)
 
 The ATP's official record for the fastest serve is a bit slower at 157.2 miles per hour (253 kilometers per hour), and it was done by John Isner in 2016 at the Davis Cup.
 
 Now, for second serves, the fastest one was hit by Reilly Opelka at an incredible speed of 144.8 miles per hour (233 kilometers per hour). He did this in 2021 during the [Italian Open](/posts/italian-open-tennis-tournament) quarter-finals.
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>**Player**</td><td>**Speed (mph)**</td><td>**Event**</td><td>**Recognized by ATP**</td></tr><tr><td>John Isner</td><td>(157.2 mph)</td><td>2016 Davis Cup</td><td>Yes</td></tr><tr><td>Feliciano López</td><td>(152.0 mph)</td><td>2014 Aegon Championships</td><td>Yes</td></tr><tr><td>Milos Raonic</td><td>(155.3 mph)</td><td>2012 SAP Open</td><td>Yes</td></tr><tr><td>Albano Olivetti</td><td>(160.0 mph)</td><td>2012 Internazionali Trofeo Lame Perrel–Faip</td><td>No</td></tr><tr><td>Ivo Karlovi?</td><td>(156.0 mph)</td><td>2011 Davis Cup</td><td>Yes</td></tr><tr><td>Andy Roddick</td><td>(155.0 mph)</td><td>2004 Davis Cup</td><td>Yes</td></tr><tr><td>Joachim Johansson</td><td>(152.0 mph)</td><td>2004 Davis Cup</td><td>No</td></tr><tr><td>Sam Groth</td><td>(163.4 mph)</td><td>2012 Busan Open Challenger Tennis</td><td>No</td></tr><tr><td>Ryan Harrison</td><td>(152.0 mph)</td><td>2013 Western & Southern Open</td><td>Yes</td></tr><tr><td>Jerzy Janowicz</td><td>(156.0 mph)</td><td>2012 Pekao Szczecin Open</td><td>No</td></tr></tbody></table></figure>
+| **Player** | **Speed (mph)** | **Event** | **Recognized by ATP** |
+| --- | --- | --- | --- |
+| John Isner | (157.2 mph) | 2016 Davis Cup | Yes |
+| Feliciano López | (152.0 mph) | 2014 Aegon Championships | Yes |
+| Milos Raonic | (155.3 mph) | 2012 SAP Open | Yes |
+| Albano Olivetti | (160.0 mph) | 2012 Internazionali Trofeo Lame Perrel–Faip | No |
+| Ivo Karlovi? | (156.0 mph) | 2011 Davis Cup | Yes |
+| Andy Roddick | (155.0 mph) | 2004 Davis Cup | Yes |
+| Joachim Johansson | (152.0 mph) | 2004 Davis Cup | No |
+| Sam Groth | (163.4 mph) | 2012 Busan Open Challenger Tennis | No |
+| Ryan Harrison | (152.0 mph) | 2013 Western & Southern Open | Yes |
+| Jerzy Janowicz | (156.0 mph) | 2012 Pekao Szczecin Open | No |
 
 #### **How Fast Women serves**
 
@@ -76,15 +81,24 @@ The fastest serve ever in women's tennis was smashed by Georgina Garcia Perez at
 
 But here's a thing – just like with men's records, the WTA (Women's Tennis Association) doesn't count speed records from tournaments before the main draw phase of WTA Tour tournaments.
 
-<figure class="wp-block-kadence-image kb-image964_145883-56 size-large kb-image-is-ratio-size">![Fastest Women](/wp-content/uploads/2023/11/Fastest-Serve-in-Women-Tennis_-Georgina-Garcia-Perez-1024x576.webp)
-
-</figure>
+![Fastest Women](/wp-content/uploads/2023/11/Fastest-Serve-in-Women-Tennis_-Georgina-Garcia-Perez-1024x576.webp)
 
 The fastest serve officially recognized by the WTA was by Sabine Lisicki in 2014 at the Stanford Classic, clocking in at 131 miles per hour (210.8 kilometers per hour).
 
 Let's talk about two big names in women's tennis: Serena Williams and Naomi Osaka. Serena holds the 8th place for hitting the fastest serve ever by a woman, zooming at 128.6 miles per hour (207 kilometers per hour). Osaka's fastest serve, which got her 14th place on the list, reached 125 miles per hour (201.2 kilometers per hour) at the 2016 US Open.
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>**Player**</td><td>**Speed (mph)**</td><td>**Event**</td><td>**Recognized by WTA**</td></tr><tr><td>Sabine Lisicki</td><td>(131.0 mph)</td><td>2014 Stanford Classic</td><td>Yes</td></tr><tr><td>Ivana Jorović</td><td>(128.6 mph)</td><td>2017 Fed Cup</td><td>No</td></tr><tr><td>Brenda Schultz-McCarthy</td><td>(130.0 mph)</td><td>2006 Cincinnati Masters (qualifiers)</td><td>No</td></tr><tr><td>Venus Williams</td><td>(129.0 mph)</td><td>2007 US Open</td><td>Yes</td></tr><tr><td>Serena Williams</td><td>(128.6 mph)</td><td>2013 Australian Open</td><td>Yes</td></tr><tr><td>Georgina García Pérez</td><td>(136.7 mph)</td><td>2018 Hungarian Ladies Open</td><td>No</td></tr><tr><td>Aryna Sabalenka</td><td>(133.0 mph)</td><td>2018 WTA Elite Trophy</td><td>No</td></tr><tr><td>Alycia Parks</td><td>(129.0 mph)</td><td>2021 US Open</td><td>Yes</td></tr><tr><td>Ajla Tomljanovic</td><td>(129.0 mph)</td><td>2018 Cincinnati Masters</td><td>Yes</td></tr><tr><td>Julia Görges</td><td>(126.1 mph)</td><td>2012 French Open</td><td>Yes</td></tr></tbody></table></figure>
+| **Player** | **Speed (mph)** | **Event** | **Recognized by WTA** |
+| --- | --- | --- | --- |
+| Sabine Lisicki | (131.0 mph) | 2014 Stanford Classic | Yes |
+| Ivana Jorović | (128.6 mph) | 2017 Fed Cup | No |
+| Brenda Schultz-McCarthy | (130.0 mph) | 2006 Cincinnati Masters (qualifiers) | No |
+| Venus Williams | (129.0 mph) | 2007 US Open | Yes |
+| Serena Williams | (128.6 mph) | 2013 Australian Open | Yes |
+| Georgina García Pérez | (136.7 mph) | 2018 Hungarian Ladies Open | No |
+| Aryna Sabalenka | (133.0 mph) | 2018 WTA Elite Trophy | No |
+| Alycia Parks | (129.0 mph) | 2021 US Open | Yes |
+| Ajla Tomljanovic | (129.0 mph) | 2018 Cincinnati Masters | Yes |
+| Julia Görges | (126.1 mph) | 2012 French Open | Yes |
 
 ### **Fast Tennis Forehands Go**
 
@@ -106,7 +120,15 @@ The speed record for the fastest forehand ever in men's tennis is an impressive 
 
 Other top players known for their incredibly powerful forehands include Fernando Verdasco, James Blake, and Andrey Rublev. They've all shown some solid forehand skills on the court.
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>**Player**</td><td>**Average Forehand Speed (Mph)**</td><td>**Average Forehand Speed (Kph)**</td></tr><tr><td>Keys</td><td>81</td><td>131</td></tr><tr><td>Mlandenovic</td><td>78</td><td>126</td></tr><tr><td>Kulichkova</td><td>77</td><td>124</td></tr><tr><td>Giogi</td><td>79</td><td>127</td></tr><tr><td>Hradecka</td><td>79</td><td>127</td></tr><tr><td>Stosur</td><td>78</td><td>125</td></tr><tr><td>Hercog</td><td>78</td><td>126</td></tr></tbody></table></figure>
+| **Player** | **Average Forehand Speed (Mph)** | **Average Forehand Speed (Kph)** |
+| --- | --- | --- |
+| Keys | 81 | 131 |
+| Mlandenovic | 78 | 126 |
+| Kulichkova | 77 | 124 |
+| Giogi | 79 | 127 |
+| Hradecka | 79 | 127 |
+| Stosur | 78 | 125 |
+| Hercog | 78 | 126 |
 
 #### **Women's Tennis Forehand Speed**
 
@@ -142,7 +164,15 @@ Other top players like David Ferrer, Novak Djokovic, and Rafael Nadal consistent
 
 The fastest backhand recorded in men's tennis was a super quick 103 miles per hour (165 kilometers per hour). And guess who did it? The tennis legend Rafael Nadal, during a match against Novak Djokovic at the National Bank Open in Montreal, Canada. That's some serious speed from Nadal's backhand!
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>**Player**</td><td>**Average Backhand Speed (Mph)**</td><td>**Average Backhand Speed (Kph)**</td></tr><tr><td>Cuevas</td><td>75</td><td>121</td></tr><tr><td>Bellucci</td><td>75</td><td>120</td></tr><tr><td>Ankuznetsov</td><td>76</td><td>122</td></tr><tr><td>Gulbis</td><td>76</td><td>122</td></tr><tr><td>Verdasco</td><td>75</td><td>120</td></tr><tr><td>Giraldo</td><td>75</td><td>121</td></tr><tr><td>Wawrinka</td><td>75</td><td>121</td></tr></tbody></table></figure>
+| **Player** | **Average Backhand Speed (Mph)** | **Average Backhand Speed (Kph)** |
+| --- | --- | --- |
+| Cuevas | 75 | 121 |
+| Bellucci | 75 | 120 |
+| Ankuznetsov | 76 | 122 |
+| Gulbis | 76 | 122 |
+| Verdasco | 75 | 120 |
+| Giraldo | 75 | 121 |
+| Wawrinka | 75 | 121 |
 
 #### **Women's Tennis Backhand Speed**
 
@@ -156,7 +186,15 @@ Some notable players in this category, known for their strong backhands, include
 
 Serena Williams, a tennis legend, holds the record for the fastest women's backhand ever recorded. She unleashed a powerful backhand at a speed of 97 miles per hour (156 kilometers per hour) during the 2004 Wimbledon quarterfinal. That's not much less than the record for men! Serena knows how to bring some serious speed to her backhand shots.
 
-<figure style="font-size:17px" class="wp-block-table"><table class="has-fixed-layout"><tbody><tr><td>**Player**</td><td>**Average Backhand Speed (Mph)**</td><td>**Average Backhand Speed (Kph)**</td></tr><tr><td>Begu</td><td>74</td><td>119</td></tr><tr><td>Keys</td><td>75</td><td>120</td></tr><tr><td>Hradecka</td><td>73</td><td>118</td></tr><tr><td>Knapp</td><td>73</td><td>117</td></tr><tr><td>Tomljanovic</td><td>74</td><td>120</td></tr><tr><td>Babos</td><td>74</td><td>119</td></tr><tr><td>Li</td><td>75</td><td>120</td></tr></tbody></table></figure>
+| **Player** | **Average Backhand Speed (Mph)** | **Average Backhand Speed (Kph)** |
+| --- | --- | --- |
+| Begu | 74 | 119 |
+| Keys | 75 | 120 |
+| Hradecka | 73 | 118 |
+| Knapp | 73 | 117 |
+| Tomljanovic | 74 | 120 |
+| Babos | 74 | 119 |
+| Li | 75 | 120 |
 
 ## **What Factors Influence the Speed of a Tennis Ball?**
 

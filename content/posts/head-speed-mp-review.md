@@ -14,11 +14,7 @@ If you're an intermediate or advanced tennis player searching for a racquet that
 
 Let’s break down what you need to know about this impressive update
 
-<figure class="wp-block-gallery has-nested-images columns-2 is-cropped prdouctslider">
-<figure class="wp-block-image size-large">![Head Speed MP Review 2025](/wp-content/uploads/2025/01/Head-Speed-MP-Review-1024x576.webp)
-
-</figure>
-</figure>
+![Head Speed MP Review 2025](/wp-content/uploads/2025/01/Head-Speed-MP-Review-1024x576.webp)
 
 **4.5**
 
@@ -35,6 +31,8 @@ Let’s break down what you need to know about this impressive update
 - **Frame:** Graphite
 
 - **Grip Size:** 4 1/2 inches
+
+<a href="https://amzn.to/4hDDyYy" target="_blank" rel="nofollow sponsored" class="product-cta-btn">View on Amazon</a>
 
 ## What’s New in the Head Speed MP Racket?
 
@@ -58,9 +56,9 @@ The Head Speed MP builds on a strong legacy with several updates aimed at improv
 
 While the additional weight and flexibility make this update more stable, they also introduce subtle changes that may take time to adjust to for returning users.
 
-<figure class="wp-block-kadence-image kb-image1628_e4701b-6e size-large">![Head Speed MP -  unstrung](/wp-content/uploads/2025/01/Head-Speed-MP-Review-unstrung-1024x576.webp)
+![Head Speed MP -  unstrung](/wp-content/uploads/2025/01/Head-Speed-MP-Review-unstrung-1024x576.webp)
 
-</figure>
+<a href="https://amzn.to/4hDDyYy" target="_blank" rel="nofollow sponsored" class="product-cta-btn">View on Amazon</a>
 
 ## Performance from the Baseline
 
@@ -112,9 +110,9 @@ The Head Speed MP Racquet is an excellent choice for intermediate to advanced pl
 
 If you’re someone who prioritizes spin above all else or prefers an ultra-crisp or super-light frame, this racquet might feel different from what you’re used to. For more control and precision, the Head Speed Pro could also be worth considering.
 
-<figure class="wp-block-kadence-image kb-image1628_892e19-93 size-large">![Head Speed MP Tennis Racket Review](/wp-content/uploads/2025/01/Head-Speed-MP-Tennis-Racket-Review-1024x576.webp)
+![Head Speed MP Tennis Racket Review](/wp-content/uploads/2025/01/Head-Speed-MP-Tennis-Racket-Review-1024x576.webp)
 
-</figure>
+<a href="https://amzn.to/4hDDyYy" target="_blank" rel="nofollow sponsored" class="product-cta-btn">View on Amazon</a>
 
 ## Conclusion
 

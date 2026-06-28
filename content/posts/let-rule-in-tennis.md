@@ -10,16 +10,6 @@ category: "Tennis Guides"
 featuredImage: "/wp-content/uploads/2025/03/Let-Rule-in-Tennis.webp"
 ---
 
-# What is a Let in Tennis? The Let Rule Explained (2026)
-
-*Chris Davies* *|* *Lead Gear Tester* *Last Updated: March 30, 2026*
-
-*[RacketEdge](/) is reader-supported. When you buy through our links, we may earn an affiliate commission.*
-
-<figure class="wp-block-kadence-image kb-image1721_18a264-54 size-large">![What is a Let in Tennis?](/wp-content/uploads/2025/03/Let-Rule-in-Tennis-1024x576.webp)
-
-</figure>
-
 ## **The Quick Answer**
 
 A "let" in tennis is a do-over where a point or serve is replayed without penalty.
@@ -70,7 +60,11 @@ However, you cannot abuse this rule. If your hat falls off a second time, it is 
 
 ### **Key Takeaways: Scenarios**
 
-<figure class="wp-block-table"><table class="has-fixed-layout"><thead><tr><td>**Let Type**</td><td>**What Happened?**</td><td>**The Result**</td></tr></thead><tbody><tr><td>**Service Let**</td><td>Serve hits net and lands in.</td><td>Replay that specific serve.</td></tr><tr><td>**Rally Let**</td><td>Ball rolls onto the court.</td><td>Replay entire point from 1st serve.</td></tr><tr><td>**Hindrance Let**</td><td>Hat falls off (First Time).</td><td>Replay entire point from 1st serve.</td></tr></tbody></table></figure>
+| **Let Type** | **What Happened?** | **The Result** |
+| --- | --- | --- |
+| **Service Let** | Serve hits net and lands in. | Replay that specific serve. |
+| **Rally Let** | Ball rolls onto the court. | Replay entire point from 1st serve. |
+| **Hindrance Let** | Hat falls off (First Time). | Replay entire point from 1st serve. |
 
 ## **Master the Game with RacketEdge**
 

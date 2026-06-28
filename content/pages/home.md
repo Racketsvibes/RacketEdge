@@ -172,10 +172,8 @@ Get the latest update in your inbox
 
 Real Reviews. Real Improvement. Our mission at RacketEdge is to equip players with the honest resources they need to win. We believe in testing over guessing and facts over fluff. Whether you play for fun or for gold, we are here to help you level up.
 
-<figure class="wp-block-kadence-image kb-image79_e680c2-b9">![Tennis Racket - Mission - RacketEdge](/wp-content/uploads/2023/10/Tennis-racquet.webp)
+[MORE ABOUT US](/posts/about-us)
 
-</figure>
+![Tennis Racket - Mission - RacketEdge](/wp-content/uploads/2023/10/Tennis-racquet.webp)
 
-<figure class="wp-block-kadence-image kb-image79_f2e9aa-a4 size-large">![Player Holding Racket](/wp-content/uploads/2023/09/Hold-the-Racquet-Right-1024x576.webp)
-
-</figure>
+![Player Holding Racket](/wp-content/uploads/2023/09/Hold-the-Racquet-Right-1024x576.webp)
