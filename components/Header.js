@@ -24,9 +24,7 @@ export default function Header() {
     <header className="site-header">
       {/* Top Header Row: Large Centered Logo */}
       <div className="header-top-row">
-        <div className="header-date-box">
-          <span className="header-date">{currentDate}</span>
-        </div>
+        <div className="header-top-left-spacer"></div>
         <Link href="/" className="logo-link" onClick={closeMobileMenu}>
           <img src="/logo.png" alt="RacketEdge Logo" className="site-logo" />
         </Link>
@@ -86,8 +84,11 @@ export default function Header() {
             </ul>
           </nav>
 
-          {/* Social Icons */}
+          {/* Social Icons & Date */}
           <div className="header-social-links">
+            <div className="header-date-box" style={{ marginRight: '16px', display: 'flex', alignItems: 'center' }}>
+              <span className="header-date" style={{ color: '#fff' }}>{currentDate}</span>
+            </div>
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">
               <svg viewBox="0 0 24 24" className="social-svg-icon"><path d="M9 8h-3v4h3v12h5v-12h3.642l.358-4h-4v-1.667c0-.955.192-1.333 1.115-1.333h2.885v-5h-3.808c-3.596 0-5.192 1.583-5.192 4.615v3.385z"/></svg>
             </a>

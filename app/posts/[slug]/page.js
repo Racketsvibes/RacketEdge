@@ -2,6 +2,7 @@ import React from 'react';
 import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
+import remarkGfm from 'remark-gfm';
 import { getPostData, getAllPostSlugs } from '../../../lib/posts';
 import AffiliateDisclosure from '../../../components/AffiliateDisclosure';
 import TableOfContents from '../../../components/TableOfContents';
@@ -186,15 +187,15 @@ export default function Post({ params }) {
         <nav className="post-breadcrumb" aria-label="Breadcrumb">
           <a href="/">Home</a>
           <span className="breadcrumb-separator">›</span>
-          <a href={`/category/${postData.category.toLowerCase().replace(/\s+/g, '-').replace(/&/g, '')}`}>{postData.category}</a>
+          <a href={`/category/${postData.category.toLowerCase().replace(/\s+/g, '-').replace(/&/g, '')}`}>{postData.category.replace(/&amp;/g, '&')}</a>
           <span className="breadcrumb-separator">›</span>
-          <span>{postData.title.length > 50 ? postData.title.substring(0, 50) + '…' : postData.title}</span>
+          <span>{postData.title.length > 50 ? postData.title.replace(/&amp;/g, '&').substring(0, 50) + '…' : postData.title.replace(/&amp;/g, '&')}</span>
         </nav>
 
         {/* Post Header */}
         <header className="post-header">
-          <span className="category-badge">{postData.category}</span>
-          <h1 className="post-title-main">{postData.title}</h1>
+          <span className="category-badge">{postData.category.replace(/&amp;/g, '&')}</span>
+          <h1 className="post-title-main">{postData.title.replace(/&amp;/g, '&')}</h1>
           <div className="post-meta-container">
             <span>By Chris Davies</span>
             <span>•</span>
@@ -227,12 +228,16 @@ export default function Post({ params }) {
             {answerCapsule && (
               <div className="answer-capsule">
                 <div className="answer-capsule-title">Quick Answer &amp; Verdict</div>
-                <p className="answer-capsule-text">{answerCapsule.replace(/---/g, '').trim()}</p>
+                <div className="answer-capsule-text">
+                  <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
+                    {answerCapsule.replace(/---/g, '').trim()}
+                  </ReactMarkdown>
+                </div>
               </div>
             )}
 
             {/* Rest of Body Content */}
-            <ReactMarkdown rehypePlugins={[rehypeRaw]}>
+            <ReactMarkdown remarkPlugins={[remarkGfm]} rehypePlugins={[rehypeRaw]}>
               {restOfBody}
             </ReactMarkdown>
 

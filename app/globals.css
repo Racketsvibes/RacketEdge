@@ -1206,12 +1206,27 @@ a {
 }
 
 .article-body ul, .article-body ol {
-  margin-bottom: 24px;
-  padding-left: 24px;
+  margin-bottom: 32px;
+  padding-left: 0;
+  list-style: none;
 }
 
 .article-body li {
-  margin-bottom: 8px;
+  margin-bottom: 12px;
+  position: relative;
+  padding-left: 28px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.article-body ul li::before {
+  content: '✓';
+  position: absolute;
+  left: 0;
+  top: 0;
+  color: var(--primary);
+  font-weight: bold;
+  font-size: 16px;
 }
 
 .article-body blockquote {
@@ -1606,7 +1621,7 @@ a {
   width: fit-content;
   margin: 28px auto;
   background-color: #f97316;
-  color: #000000;
+  color: #ffffff;
   font-family: var(--font-headings);
   font-weight: 700;
   font-size: 15px;
@@ -1630,7 +1645,7 @@ a {
   background-color: #ea580c;
   transform: scale(1.04);
   box-shadow: 0 6px 20px 0 rgba(249, 115, 22, 0.5);
-  color: #000000;
+  color: #ffffff;
   text-decoration: none !important;
 }
 
