@@ -1,6 +1,6 @@
 ---
 title: "Best Tennis Shoes for Women 2025: Top 10 Picks"
-seoTitle: "%title%"
+seoTitle: "Best Tennis Shoes For Women: %title%"
 description: "This guide ranks the top 10 best tennis shoes for women, analyzing cushioning, stability, durability, and style. theracketsports.com"
 date: "2025-07-08 17:34:03"
 dateModified: "2025-07-08 17:34:07"

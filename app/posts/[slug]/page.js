@@ -182,6 +182,15 @@ export default function Post({ params }) {
       />
       
       <div className="container">
+        {/* Breadcrumb Navigation */}
+        <nav className="post-breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span className="breadcrumb-separator">›</span>
+          <a href={`/category/${postData.category.toLowerCase().replace(/\s+/g, '-').replace(/&/g, '')}`}>{postData.category}</a>
+          <span className="breadcrumb-separator">›</span>
+          <span>{postData.title.length > 50 ? postData.title.substring(0, 50) + '…' : postData.title}</span>
+        </nav>
+
         {/* Post Header */}
         <header className="post-header">
           <span className="category-badge">{postData.category}</span>
@@ -202,6 +211,7 @@ export default function Post({ params }) {
               src={postData.featuredImage} 
               alt={postData.title} 
               className="post-hero-image"
+              loading="lazy"
             />
           </div>
         )}

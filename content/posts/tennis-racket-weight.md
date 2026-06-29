@@ -12,7 +12,7 @@ featuredImage: "/wp-content/uploads/2023/11/Tennis-Racket-Weight.webp"
 
 Even an ounce or gram difference in racket weight can impact your performance and cause injury. But with all the options, selecting the right-weight tennis racket is tricky. Don't worry; the ideal weight for a [tennis racket](/posts/best-tennis-rackets) is between 10 and 11.5 ounces (280 to 325 grams), from providing power and stability to more maneuverability for quick volleys and returns.
 
-![Tennis Racquet Weight ](/wp-content/uploads/2023/11/Featured-image-of-Tennis-Racket-Weight.jpg)
+![Tennis Racket Weight - Tennis Racquet Weight ](/wp-content/uploads/2023/11/Featured-image-of-Tennis-Racket-Weight.jpg)
 
 But the question is, what are the criteria based on which we should pick the correct weight tennis racket? And which racket weight is suitable for you? If you want to know in detail, maintain the reading.
 

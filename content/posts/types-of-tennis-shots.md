@@ -1,6 +1,6 @@
 ---
 title: "11 Types of Tennis Shots Explained: How &amp; When to Use Them"
-seoTitle: " %title%"
+seoTitle: "Types Of Tennis Shots:  %title%"
 description: "Look at various types of tennis shots - groundstrokes, volleys, serves, and more. Enhance your skills with our detailed guide."
 date: "2026-03-24 18:55:35"
 dateModified: "2026-03-24 18:55:37"
@@ -18,7 +18,7 @@ After years of coaching and playtesting the [7 Best Tennis Rackets](/posts/best-
 
 Here is your complete guide to the 11 essential types of tennis shots, including exactly what they are and when to pull the trigger.
 
-## Tennis Shots
+## Tennis Shots: Types Of Tennis Shots Guide
 
 ## **1. The Groundstrokes (Baseline Play)**
 

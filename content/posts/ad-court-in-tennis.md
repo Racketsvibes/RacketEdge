@@ -1,6 +1,6 @@
 ---
 title: "What Ad Court Means In Tennis? | Easy Guide 2025"
-seoTitle: "%title%"
+seoTitle: "Ad Court: %title%"
 description: "Ad court is the left side of the tennis court where players serve during advantage points after deuce. Improve your game by mastering this key area!"
 date: "2025-07-08 17:06:38"
 dateModified: "2025-07-08 17:06:40"
@@ -18,7 +18,7 @@ In this article, we’ll dive into the ad court—what it is, how it got its nam
 
 ## What Is the Ad Court?
 
-The ad court refers to the left-hand side of the tennis court when facing the net. It’s where players stand during specific points in a game, particularly when serving from the **advantage (or “ad”) position.** This term comes from scoring terminology; when a player wins a point after deuce, they gain an “advantage,” which means they serve from the ad court.
+The ad court refers to the left-hand side of the [tennis court](/posts/tennis-court-dimensions) when facing the net. It’s where players stand during specific points in a game, particularly when serving from the **advantage (or “ad”) position.** This term comes from scoring terminology; when a player wins a point after deuce, they gain an “advantage,” which means they [serve](/posts/types-of-tennis-shots) from the ad court.
 
 Interestingly, the ad court isn’t just a random designation—it plays a strategic role in gameplay. Serving effectively from this side requires precision, as it often involves hitting across your body if you’re right-handed (or with your dominant hand). For many players, mastering the ad court can be a major shift.
 

@@ -67,18 +67,36 @@ function checkPostCompliance(filepath) {
     // 3. Focus Keyword Checks
     if (focusKw) {
         const keywords = focusKw.split(',').map(k => k.trim()).filter(k => k.length > 0);
-        keywords.forEach(kw => {
+        const primaryKw = keywords[0]; // Primary keyword is the first one
+        const secondaryKws = keywords.slice(1); // Secondary keywords are variations
+        
+        // Primary keyword — ISSUES (must fix)
+        const checkPrimary = (kw) => {
             if (!seoTitle.toLowerCase().includes(kw)) {
                 issues.push(`Focus keyword '${kw}' NOT found in SEO Title.`);
             } else {
                 successes.push(`Focus keyword '${kw}' found in SEO Title.`);
             }
-            
             if (!description.toLowerCase().includes(kw)) {
                 issues.push(`Focus keyword '${kw}' NOT found in Meta Description.`);
             } else {
                 successes.push(`Focus keyword '${kw}' found in Meta Description.`);
             }
+        };
+        checkPrimary(primaryKw);
+        
+        // Secondary keywords — WARNINGS only (variations, can't fit all in title)
+        secondaryKws.forEach(kw => {
+            if (!seoTitle.toLowerCase().includes(kw)) {
+                warnings.push(`Secondary keyword '${kw}' NOT in SEO Title (variation of primary).`);
+            }
+            if (!description.toLowerCase().includes(kw)) {
+                warnings.push(`Secondary keyword '${kw}' NOT in Meta Description (variation of primary).`);
+            }
+        });
+        
+        // All keywords: slug, first 10%, subheadings, image alt checks (warnings for all)
+        keywords.forEach(kw => {
             
             const slugKw = kw.replace(/\s+/g, '-');
             if (!slug.toLowerCase().includes(slugKw)) {

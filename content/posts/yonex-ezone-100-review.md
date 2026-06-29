@@ -1,5 +1,5 @@
 ---
-title: "Yonex EZONE 100 (2026) Review: The King of \"Easy Power\"?"
+title: "Yonex EZONE 100 (2026) Review: The King of Easy Power?"
 seoTitle: "Yonex EZONE 100 Review (2026 Edition): Still the Power King? "
 description: "Entering 2026, is the Yonex EZONE 100 still the best power racket on the market? I tested it on court to see if it holds the crown."
 date: "2026-03-24 18:55:00"
@@ -44,7 +44,7 @@ I took a fresh strung frame to the court to re-evaluate it for the 2026 season. 
 }
 </script>
 
-![Tennis Author - Chris Davies](/wp-content/uploads/2026/01/cropped-Author-1.webp)
+![Yonex Ezone 100 - Tennis Author - Chris Davies](/wp-content/uploads/2026/01/cropped-Author-1.webp)
 
 ## Our Testing Process
 

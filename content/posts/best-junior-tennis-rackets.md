@@ -1,6 +1,6 @@
 ---
 title: "Top 8 Best Junior Tennis Rackets 2025 | For All-Age Kids"
-seoTitle: "%title%"
+seoTitle: "Best Junior Tennis Racket: %title%"
 description: "Babolat Nadal Junior (Rafe Edition) is the best junior Tennis Racket that offers power, control, and quality at a reasonable price for beginners."
 date: "2025-01-11 12:01:55"
 dateModified: "2025-01-11 12:01:58"

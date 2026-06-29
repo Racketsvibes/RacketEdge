@@ -64,7 +64,7 @@ If the score reaches 6-6, the normal rules pause. Players will play a special 7-
 
 ## **Master the Court with RacketEdge**
 
-Understanding court rules takes time and practice. Join the **RacketEdge Beginner Tennis Course** today. We break down complex scoring and match strategy. Sign up for our weekly newsletter for free tips. You will master rules like the **[tennis let rule](/posts/let-rule-in-tennis)** quickly.
+Understanding court rules takes time and practice. Join the **RacketEdge [Beginner Tennis](/posts/best-beginner-tennis-racket) Course** today. We break down complex scoring and match strategy. Sign up for our weekly newsletter for free tips. You will master rules like the **[tennis let rule](/posts/let-rule-in-tennis)** quickly.
 
 ## **FAQs**
 

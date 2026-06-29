@@ -10,7 +10,7 @@ category: "Tennis Rackets"
 featuredImage: "/wp-content/uploads/2026/03/Carlos-Alcaraz-racket-specs-1.webp"
 ---
 
-## Carlos's Racket Specs Summary
+## Carlos's Racket Specs Summary: Carlos Alcaraz Racket Guide
 
 In 2026, Carlos Alcaraz uses a customized pro-stock version of the Babolat Pure Aero 98.
 

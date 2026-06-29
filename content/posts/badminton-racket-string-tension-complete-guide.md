@@ -1,6 +1,6 @@
 ---
 title: "Badminton Racket String Tension | Complete Guide 2025"
-seoTitle: "%title%"
+seoTitle: "Badminton Racket String Tension: %title%"
 description: "Learn in details about Badminton Racket String Tension. This article will provide your best insights about the string tension for badminton rackets."
 date: "2025-07-06 17:53:25"
 dateModified: "2025-07-06 17:53:27"

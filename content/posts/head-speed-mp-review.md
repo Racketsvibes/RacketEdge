@@ -1,6 +1,6 @@
 ---
 title: "Head Speed MP Racket Review 2025 | Buying Guide"
-seoTitle: "%title%"
+seoTitle: "Head Speed Mp: %title%"
 description: "Experience the perfect balance of power, control, and comfort with the Head Speed MP. Enhanced stability and feel for all playing styles."
 date: "2025-04-06 16:01:34"
 dateModified: "2025-04-06 16:01:36"

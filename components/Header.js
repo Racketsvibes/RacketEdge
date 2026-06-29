@@ -8,8 +8,8 @@ export default function Header() {
   const [currentDate, setCurrentDate] = useState('');
 
   useEffect(() => {
-    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-    setCurrentDate(new Date().toLocaleDateString('en-US', options));
+    const options = { year: 'numeric', month: 'long', day: 'numeric' };
+    setCurrentDate(new Date().toLocaleDateString(undefined, options));
   }, []);
 
   const toggleMobileMenu = () => {

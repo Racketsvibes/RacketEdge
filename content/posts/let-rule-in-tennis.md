@@ -10,7 +10,7 @@ category: "Tennis Guides"
 featuredImage: "/wp-content/uploads/2025/03/Let-Rule-in-Tennis.webp"
 ---
 
-## **The Quick Answer**
+## **The Quick Answer**: Let In Tennis Guide
 
 A "let" in tennis is a do-over where a point or serve is replayed without penalty.
 
