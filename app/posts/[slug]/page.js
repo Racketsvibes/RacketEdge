@@ -51,7 +51,7 @@ export async function generateMetadata({ params }) {
 
 // Helper to extract FAQs dynamically from Markdown text
 function extractFaqs(markdown) {
-  const faqStartIndex = markdown.search(/##\s+FAQ/i);
+  const faqStartIndex = markdown.search(/##\s+(?:FAQ|Frequently Asked Questions)/i);
   if (faqStartIndex === -1) return [];
   const faqText = markdown.substring(faqStartIndex);
   
@@ -59,7 +59,7 @@ function extractFaqs(markdown) {
   // Matches ### Question followed by content up to next heading or end
   const matches = faqText.matchAll(/###\s+([^\n]+)\n+([\s\S]*?)(?=\n+###|\n+##|\n*---|$)/g);
   for (const match of matches) {
-    const question = match[1].trim();
+    const question = match[1].trim().replace(/\*\*/g, '');
     const answer = match[2]
       .trim()
       .replace(/[\*\-]/g, '') // remove bullet markers
@@ -78,10 +78,16 @@ export default function Post({ params }) {
 
   const paragraphs = postData.contentHtml.split('\n\n');
   const answerCapsule = paragraphs[0]; // First paragraph as highlighted Answer Capsule
-  const restOfBody = paragraphs.slice(1).join('\n\n');
+  let restOfBody = paragraphs.slice(1).join('\n\n');
 
   // Extract FAQs for the Accordion rendering & JSON-LD schema
   const faqs = extractFaqs(postData.contentHtml);
+
+  // Remove the raw FAQ section from restOfBody so it doesn't render twice
+  const faqStartIndex = restOfBody.search(/##\s+(?:FAQ|Frequently Asked Questions)/i);
+  if (faqStartIndex !== -1) {
+    restOfBody = restOfBody.substring(0, faqStartIndex);
+  }
 
   // Dynamic Rich Schemas (Article + Product)
   const isReview = postData.slug.includes('review') || postData.slug.includes('vs-') || postData.slug.includes('best-');
