@@ -53,14 +53,8 @@ export default function Header() {
                 <Link href="/" onClick={closeMobileMenu}>Home</Link>
               </li>
               
-              <li className="nav-item dropdown">
-                <span className="dropdown-label">Racket Reviews</span>
-                <ul className="dropdown-menu">
-                  <li><Link href="/posts/best-wilson-tennis-rackets" onClick={closeMobileMenu}>Wilson Rackets</Link></li>
-                  <li><Link href="/posts/best-babolat-tennis-racket" onClick={closeMobileMenu}>Babolat Rackets</Link></li>
-                  <li><Link href="/posts/best-head-tennis-racquets" onClick={closeMobileMenu}>Head Rackets</Link></li>
-                  <li><Link href="/posts/best-tennis-rackets" onClick={closeMobileMenu}>All Tennis Rackets</Link></li>
-                </ul>
+              <li className="nav-item">
+                <Link href="/category/tennis-rackets" onClick={closeMobileMenu}>Tennis Rackets</Link>
               </li>
 
               <li className="nav-item dropdown">
