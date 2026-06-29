@@ -89,6 +89,19 @@ export default function Post({ params }) {
     restOfBody = restOfBody.substring(0, faqStartIndex);
   }
 
+  // Group contiguous rating cards into a professional CSS Grid
+  const contiguousRatingsRegex = /(?:###\s+[^\n]+\s+\*\*[\d\.]+\/10\*\*\s*)+/g;
+  restOfBody = restOfBody.replace(contiguousRatingsRegex, (match) => {
+    const individualRegex = /###\s+([^\n]+)\s+\*\*([\d\.]+\/10)\*\*/g;
+    let cardsHtml = '<div class="rating-cards-grid">\n';
+    let cardMatch;
+    while ((cardMatch = individualRegex.exec(match)) !== null) {
+      cardsHtml += `  <div class="rating-card"><div class="rating-label">${cardMatch[1].trim()}</div><div class="rating-score">${cardMatch[2].trim()}</div></div>\n`;
+    }
+    cardsHtml += '</div>\n\n';
+    return cardsHtml;
+  });
+
   // Dynamic Rich Schemas (Article + Product)
   const isReview = postData.slug.includes('review') || postData.slug.includes('vs-') || postData.slug.includes('best-');
   const schemaGraph = [

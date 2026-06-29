@@ -1677,40 +1677,56 @@ a {
   text-decoration: none !important;
 }
 
-/* Specification Card Styling */
-.article-body h3:has(+ p > strong:only-child) {
-  margin-bottom: 0px;
-  border-left: 0;
-  padding-left: 0;
-  padding-top: 16px;
-  padding-left: 20px;
-  background-color: var(--bg-secondary);
-  border-top-left-radius: var(--radius-md);
-  border-top-right-radius: var(--radius-md);
+/* Specification Rating Cards */
+.rating-cards-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 32px;
+  margin-bottom: 40px;
+}
+
+.rating-card {
+  background: linear-gradient(145deg, var(--bg-secondary), var(--bg-tertiary));
+  border-radius: var(--radius-lg);
   border: 1px solid var(--border-color);
-  border-bottom: none;
-  font-size: 16px;
+  padding: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.04);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.rating-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.08);
+  border-color: var(--primary);
+}
+
+.rating-label {
+  font-size: 14px;
   text-transform: uppercase;
+  letter-spacing: 1.5px;
   color: var(--text-muted);
-}
-
-.article-body h3 + p:has(> strong:only-child) {
-  background-color: var(--bg-secondary);
-  border: 1px solid var(--border-color);
-  border-top: none;
-  padding: 8px 20px 20px 20px;
-  border-bottom-left-radius: var(--radius-md);
-  border-bottom-right-radius: var(--radius-md);
-  margin-top: 0;
-  margin-bottom: 32px;
-  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.03);
-}
-
-.article-body h3 + p:has(> strong:only-child) strong {
-  font-size: 20px;
-  color: var(--primary);
   font-weight: 700;
-  display: block;
+  margin-bottom: 12px;
+}
+
+.rating-score {
+  font-size: 28px;
+  color: var(--primary);
+  font-weight: 800;
+  font-family: var(--font-headings);
+}
+
+@media (max-width: 640px) {
+  .rating-cards-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
 }
 
 @media (max-width: 768px) {
