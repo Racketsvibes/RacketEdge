@@ -1,6 +1,6 @@
 ---
-title: "Carlos Alcaraz Racket 2026: Exact Specs &amp; Strings"
-seoTitle: "Carlos Alcaraz Racket 2026: Exact Specs &amp; Strings"
+title: "Carlos Alcaraz Racket 2026: Exact Specs & Strings"
+seoTitle: "Carlos Alcaraz Racket 2026: Exact Specs & Strings"
 description: "For the exact Carlos Alcaraz racket 2026 setup, he uses a custom pro-stock Babolat Pure Aero 98 strung with RPM Blast (55/51 lbs)."
 date: "2026-05-23 18:48:52"
 dateModified: "2026-05-23 18:50:03"

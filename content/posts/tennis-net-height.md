@@ -1,6 +1,6 @@
 ---
 title: "Tennis Net Height - Know The Exact Measurements 2025"
-seoTitle: "Official Tennis Net Height 2025 – Singles &amp; Doubles"
+seoTitle: "Official Tennis Net Height 2025 – Singles & Doubles"
 description: "Official tennis net height: 42-inch posts & 36-inch center. Learn why the dip matters for strategy. Single vs. Double | racketedge.com"
 date: "2025-08-28 18:57:40"
 dateModified: "2025-08-28 18:57:42"

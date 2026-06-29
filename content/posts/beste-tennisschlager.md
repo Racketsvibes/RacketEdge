@@ -1,6 +1,6 @@
 ---
 title: "7 Beste Tennisschläger 2026: Auf dem Platz getestet und bewertet"
-seoTitle: "7 Beste Tennisschläger 2026: Getestet &amp; Bewertet"
+seoTitle: "7 Beste Tennisschläger 2026: Getestet & Bewertet"
 description: "Wir haben die 7 beste Tennisschläger 2026 auf dem Platz getestet. Finden Sie das perfekte Modell für Spin, Kontrolle, Komfort und Ihr Spielniveau."
 date: "2026-06-01 11:58:36"
 dateModified: "2026-06-01 12:03:15"

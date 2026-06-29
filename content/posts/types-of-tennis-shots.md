@@ -1,5 +1,5 @@
 ---
-title: "11 Types of Tennis Shots Explained: How &amp; When to Use Them"
+title: "11 Types of Tennis Shots Explained: How & When to Use Them"
 seoTitle: "Types Of Tennis Shots:  %title%"
 description: "Look at various types of tennis shots - groundstrokes, volleys, serves, and more. Enhance your skills with our detailed guide."
 date: "2026-03-24 18:55:35"

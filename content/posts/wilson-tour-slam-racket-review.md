@@ -1,7 +1,7 @@
 ---
 title: "Wilson Tour Slam Racket Review: Ideal for Recreation? | 2025"
-seoTitle: "Wilson Tour Slam Racket Review (Pros, Cons &amp; Buyer’s Guide)"
-description: "Looking for a budget tennis racket? Read our Wilson Tour Slam racket review 2025 - tested for power, comfort &amp; control. racketedge.com"
+seoTitle: "Wilson Tour Slam Racket Review (Pros, Cons & Buyer’s Guide)"
+description: "Looking for a budget tennis racket? Read our Wilson Tour Slam racket review 2025 - tested for power, comfort & control. racketedge.com"
 date: "2025-08-28 18:42:28"
 dateModified: "2025-08-28 18:42:30"
 slug: "wilson-tour-slam-racket-review"

@@ -1,6 +1,6 @@
 ---
-title: "Tennis Court Dimensions | Size &amp; Layout 2026"
-seoTitle: "Tennis Court Dimensions | Size &amp; Layout 2026 (Explained) "
+title: "Tennis Court Dimensions | Size & Layout 2026"
+seoTitle: "Tennis Court Dimensions | Size & Layout 2026 (Explained) "
 description: "Tennis Court Dimensions explained: official court length is 78ft (23.77m), singles width 27ft (8.23m), and doubles width 36ft (10.97m)."
 date: "2026-05-12 18:32:24"
 dateModified: "2026-05-12 18:32:26"

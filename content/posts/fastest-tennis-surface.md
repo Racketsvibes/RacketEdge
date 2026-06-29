@@ -1,7 +1,7 @@
 ---
 title: "Which is the fastest tennis surface? Clay, Grass, or Hard Courts"
 seoTitle: "Fastest Tennis Surface: %title%"
-description: "The fastest tennis surface is grass &amp; slowest is clay but factors such as ball &amp; weather also affect the tennis surface, you must know how to play well."
+description: "The fastest tennis surface is grass & slowest is clay but factors such as ball & weather also affect the tennis surface, you must know how to play well."
 date: "2025-09-03 18:26:54"
 dateModified: "2025-09-03 18:26:56"
 slug: "fastest-tennis-surface"

@@ -1,6 +1,6 @@
 ---
 title: "Jannik Sinner at the Italian Open 2026: Tournament Updates"
-seoTitle: "Jannik Sinner at the Italian Open 2026: Status &amp; Updates"
+seoTitle: "Jannik Sinner at the Italian Open 2026: Status & Updates"
 description: "Jannik Sinner At The Italian: Jannik Sinner has advanced to the quarterfinals of the 2026 Italian Open. He recently tied the all-time record for consecutive ..."
 date: "2026-05-12 17:33:59"
 dateModified: "2026-05-12 17:34:01"

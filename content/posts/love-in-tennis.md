@@ -1,6 +1,6 @@
 ---
 title: "What Does Love Mean in Tennis? Origin & Scoring Explained (2026)"
-seoTitle: "What Does Love Mean in Tennis? Origin &amp; Scoring Explained 2026"
+seoTitle: "What Does Love Mean in Tennis? Origin & Scoring Explained 2026"
 description: "What Does Love Mean In Tennis: Confused by tennis scoring? Find what love means in tennis, the bizarre history of the term, and a simple guide on how to ..."
 date: "2026-03-24 18:53:52"
 dateModified: "2026-03-24 18:53:54"

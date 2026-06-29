@@ -1,6 +1,6 @@
 ---
 title: "How Do Tennis Sets Work? The Scoring Rules Explained 2026"
-seoTitle: "What Is a Set in Tennis? Rules &amp; Scoring Explained (2026)"
+seoTitle: "What Is a Set in Tennis? Rules & Scoring Explained (2026)"
 description: "What is a set in tennis? To win, a player must take six games and lead by two. Learn exactly what happens at a 5-5 or 6-6 tie right here."
 date: "2026-03-24 18:54:44"
 dateModified: "2026-03-24 18:54:45"

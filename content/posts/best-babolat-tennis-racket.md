@@ -1,6 +1,6 @@
 ---
-title: "Best Babolat Tennis Racket 2026: Pure Drive, Aero &amp; Strike"
-seoTitle: "Best Babolat Tennis Racket 2026: Pure Drive, Aero &amp; Strike"
+title: "Best Babolat Tennis Racket 2026: Pure Drive, Aero & Strike"
+seoTitle: "Best Babolat Tennis Racket 2026: Pure Drive, Aero & Strike"
 description: "Best Babolat Tennis Racket guide: "
 date: "2026-05-23 18:45:34"
 dateModified: "2026-05-23 18:45:36"
