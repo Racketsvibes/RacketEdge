@@ -131,8 +131,8 @@ a {
   height: 300px;
   width: auto;
   display: block;
-  margin-top: -95px;
-  margin-bottom: -95px;
+  margin: -95px -60px;
+  clip-path: inset(0 15% 0 15%);
   transition: all 0.3s ease;
 }
 

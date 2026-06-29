@@ -23,12 +23,10 @@ export default function Header() {
   return (
     <header className="site-header">
       {/* Top Header Row: Large Centered Logo */}
-      <div className="header-top-row">
-        <div className="header-top-left-spacer"></div>
+      <div className="header-top-row" style={{ display: 'flex', justifyContent: 'center', overflow: 'hidden' }}>
         <Link href="/" className="logo-link" onClick={closeMobileMenu}>
           <img src="/logo.png" alt="RacketEdge Logo" className="site-logo" />
         </Link>
-        <div className="header-top-right-spacer"></div>
       </div>
 
       {/* Bottom Header Row: Navigation Links & Social Media */}
@@ -49,7 +47,7 @@ export default function Header() {
           <nav className={`site-navigation ${mobileMenuOpen ? 'nav-open' : ''}`}>
             <ul className="nav-list">
               <li className="nav-item" style={{ display: 'flex', alignItems: 'center', marginRight: '12px' }}>
-                <span className="header-date" style={{ color: '#fff', fontWeight: 'bold' }}>{currentDate}</span>
+                <span className="header-date" style={{ color: 'var(--text-primary)', fontWeight: '600' }}>{currentDate}</span>
               </li>
               <li className="nav-item">
                 <Link href="/" onClick={closeMobileMenu}>Home</Link>
