@@ -1,0 +1,23 @@
+# RacketEdge
+
+> Real court testing, no marketing hype. 
+
+RacketEdge is a tennis and racket sports affiliate and review website founded by Chris Davies, an active competitive tennis player and gear tester. 
+
+The primary mission of RacketEdge is to provide transparent, brutally honest, and experienced-based reviews of tennis rackets, badminton rackets, strings, shoes, and other gear. If gear hasn't been tested in a competitive match, it is not recommended on this site.
+
+## Key Sections
+- **Racket Reviews:** In-depth, play-tested reviews of the latest frames from Wilson, Babolat, Head, Yonex, and Victor.
+- **Gear Guides:** Comprehensive buying guides for strings, bags, shoes, and ball machines.
+- **Tennis Guides:** Educational content covering tennis rules, court dimensions, scoring, and technique.
+- **About:** Information on Chris Davies and the RacketEdge "Prove It" testing methodology.
+
+## Philosophy
+The site follows a strict "Prove It" philosophy. Content is written in the first-person from the perspective of an actual player. We value stability, comfort, and real-world feel over manufacturer marketing claims. RacketEdge is reader-supported and uses Amazon affiliate links, but never accepts payment from manufacturers in exchange for positive reviews.
+
+## Technical Details
+This site is a statically generated Next.js (App Router) application. Content is served from highly optimized markdown files.
+
+## Contact
+Email: chris@racketedge.com
+Website: https://racketedge.com
