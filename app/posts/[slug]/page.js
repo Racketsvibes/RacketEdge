@@ -3,7 +3,8 @@ import { notFound } from 'next/navigation';
 import ReactMarkdown from 'react-markdown';
 import rehypeRaw from 'rehype-raw';
 import remarkGfm from 'remark-gfm';
-import { getPostData, getAllPostSlugs } from '../../../lib/posts';
+import { getPostData, getAllPostSlugs, getSortedPostsData } from '../../../lib/posts';
+import Link from 'next/link';
 import AffiliateDisclosure from '../../../components/AffiliateDisclosure';
 import TableOfContents from '../../../components/TableOfContents';
 import FAQ from '../../../components/FAQ';
@@ -75,6 +76,14 @@ export default function Post({ params }) {
   if (!postData) {
     notFound();
   }
+
+  const allPosts = getSortedPostsData();
+  let relatedPosts = allPosts.filter(p => p.slug !== params.slug && p.category === postData.category);
+  if (relatedPosts.length < 3) {
+    const otherPosts = allPosts.filter(p => p.slug !== params.slug && !relatedPosts.some(rp => rp.slug === p.slug));
+    relatedPosts = [...relatedPosts, ...otherPosts];
+  }
+  relatedPosts = relatedPosts.slice(0, 3);
 
   const paragraphs = postData.contentHtml.split('\n\n');
   const answerCapsule = paragraphs[0]; // First paragraph as highlighted Answer Capsule
@@ -269,6 +278,36 @@ export default function Post({ params }) {
             <TableOfContents />
           </aside>
         </div>
+
+        {/* Related Posts Section */}
+        {relatedPosts.length > 0 && (
+          <section className="related-posts-section" style={{ marginTop: '64px', borderTop: '1px solid var(--border-color)', paddingTop: '40px' }}>
+            <h3 style={{ marginBottom: '24px', fontSize: '24px', color: 'var(--text-primary)' }}>Related Articles</h3>
+            <div className="grid-3-col">
+              {relatedPosts.map((post) => (
+                <article key={post.slug} className="post-card">
+                  <Link href={`/posts/${post.slug}`} className="post-card-img-wrapper">
+                    <img 
+                      src={post.featuredImage || '/logo.png'} 
+                      alt={post.title} 
+                      className="post-card-img"
+                    />
+                  </Link>
+                  <div className="post-card-body">
+                    <span className="category-badge">{post.category}</span>
+                    <h4 className="post-card-title">
+                      <Link href={`/posts/${post.slug}`}>{post.title}</Link>
+                    </h4>
+                    <p className="post-card-excerpt">{post.description}</p>
+                    <div className="card-meta">
+                      <span>{new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                    </div>
+                  </div>
+                </article>
+              ))}
+            </div>
+          </section>
+        )}
       </div>
     </article>
   );
