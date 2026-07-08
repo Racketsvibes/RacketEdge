@@ -24,6 +24,6 @@ export default function robots() {
         allow: '/',
       }
     ],
-    sitemap: 'https://racketedge.com/sitemap.xml',
+    sitemap: 'https://www.racketedge.com/sitemap.xml',
   };
 }

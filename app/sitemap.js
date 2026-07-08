@@ -8,7 +8,7 @@ function slugify(text) {
 }
 
 export default async function sitemap() {
-  const baseUrl = 'https://racketedge.com';
+  const baseUrl = 'https://www.racketedge.com';
   
   // 1. Static Pages
   const staticRoutes = ['', '/about', '/contact', '/privacy-policy', '/affiliate-disclosure'].map((route) => {
