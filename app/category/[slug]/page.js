@@ -13,15 +13,13 @@ function slugify(text) {
 export async function generateStaticParams() {
   const allPosts = getSortedPostsData();
   const categories = new Set(allPosts.map(p => slugify(p.category || 'General')));
-  return Array.from(categories).map(slug => ({
-    slug,
-  }));
+  return Array.from(categories).map(slug => ({ slug }));
 }
 
 export async function generateMetadata({ params }) {
   const allPosts = getSortedPostsData();
   const categoryName = allPosts.find(p => slugify(p.category || '') === params.slug)?.category || 'Category';
-  
+
   return {
     title: `${categoryName} Reviews & Guides`,
     description: `Browse all articles, guides, and reviews under the ${categoryName} category.`,
@@ -33,8 +31,7 @@ export async function generateMetadata({ params }) {
 
 export default function Category({ params }) {
   const allPosts = getSortedPostsData();
-  
-  // Find posts belonging to the target slugified category
+
   const filteredPosts = allPosts.filter(
     (post) => slugify(post.category || 'General') === params.slug
   );
@@ -48,11 +45,11 @@ export default function Category({ params }) {
   return (
     <div className="container">
       <section className="latest-posts-section">
-        <header className="page-header">
+        <header className="category-hero">
           <span className="category-badge">Category</span>
           <h1 className="page-title">{categoryName}</h1>
-          <p style={{ color: 'var(--text-muted)', marginTop: '8px' }}>
-            Found {filteredPosts.length} articles in this category.
+          <p className="category-count">
+            {filteredPosts.length} article{filteredPosts.length !== 1 ? 's' : ''} in this category
           </p>
         </header>
 
@@ -60,9 +57,9 @@ export default function Category({ params }) {
           {filteredPosts.map((post) => (
             <article key={post.slug} className="post-card">
               <Link href={`/posts/${post.slug}`} className="post-card-img-wrapper">
-                <img 
-                  src={post.featuredImage || '/logo.png'} 
-                  alt={post.title} 
+                <img
+                  src={post.featuredImage || '/logo.png'}
+                  alt={post.title}
                   className="post-card-img"
                 />
               </Link>

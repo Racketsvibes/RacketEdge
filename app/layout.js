@@ -1,4 +1,5 @@
 import React from 'react';
+import Script from 'next/script';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import './globals.css';
@@ -45,7 +46,6 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-  // Global Schema Markup
   const globalSchema = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -80,7 +80,7 @@ export default function RootLayout({ children }) {
         url: 'https://racketedge.com/about',
         image: {
           '@type': 'ImageObject',
-          url: 'https://racketedge.com/logo.png', // Fallback avatar
+          url: 'https://racketedge.com/logo.png',
           caption: 'Chris Davies'
         },
         description: 'Chris Davies is a club tennis player, coach, and racket sports enthusiast with over 15 years of gear playtesting experience.'
@@ -96,6 +96,19 @@ export default function RootLayout({ children }) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(globalSchema) }}
         />
+        {/* Google Analytics */}
+        <Script
+          src="https://www.googletagmanager.com/gtag/js?id=G-W3J1SK5X47"
+          strategy="afterInteractive"
+        />
+        <Script id="google-analytics" strategy="afterInteractive">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-W3J1SK5X47');
+          `}
+        </Script>
       </head>
       <body>
         <div className="site-wrapper">

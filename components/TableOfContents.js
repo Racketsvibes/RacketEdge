@@ -5,36 +5,33 @@ import React, { useEffect, useState } from 'react';
 export default function TableOfContents() {
   const [headings, setHeadings] = useState([]);
   const [activeId, setActiveId] = useState('');
+  const [isCollapsed, setIsCollapsed] = useState(false);
 
   useEffect(() => {
-    // Locate the article body container
     const articleBody = document.querySelector('.article-body');
     if (!articleBody) return;
 
-    // Find all H2 and H3 elements inside the article
     const headingElements = Array.from(articleBody.querySelectorAll('h2, h3'));
-    
-    // Process and assign IDs
+
     const items = headingElements.map((el, index) => {
       const text = el.textContent || '';
-      // Create a URL-friendly ID if not already present
       const id = el.id || text
         .toLowerCase()
         .replace(/[^a-z0-9]+/g, '-')
         .replace(/(^-|-$)/g, '') || `heading-${index}`;
-      
-      el.id = id; // Ensure the element has this ID on the DOM
 
-      return {
-        id,
-        text,
-        level: el.tagName.toLowerCase(), // 'h2' or 'h3'
-      };
+      el.id = id;
+
+      return { id, text, level: el.tagName.toLowerCase() };
     });
 
     setHeadings(items);
 
-    // Setup intersection observer to highlight the heading currently in viewport
+    // Collapse by default on mobile
+    if (window.innerWidth < 992) {
+      setIsCollapsed(true);
+    }
+
     const observer = new IntersectionObserver(
       (entries) => {
         const visibleEntry = entries.find((entry) => entry.isIntersecting);
@@ -54,22 +51,27 @@ export default function TableOfContents() {
 
   return (
     <nav className="toc-container">
-      <div className="toc-title">Table of Contents</div>
-      <ul className="toc-list">
-        {headings.map((item) => (
-          <li 
-            key={item.id} 
-            className={`toc-item ${item.level === 'h3' ? 'toc-subitem' : ''} ${activeId === item.id ? 'toc-active' : ''}`}
-          >
-            <a href={`#${item.id}`} onClick={(e) => {
-              e.preventDefault();
-              document.getElementById(item.id)?.scrollIntoView({ behavior: 'smooth' });
-            }}>
-              {item.text}
-            </a>
-          </li>
-        ))}
-      </ul>
+      <button className="toc-toggle" onClick={() => setIsCollapsed(!isCollapsed)}>
+        <span className="toc-title">📑 Table of Contents</span>
+        <span className={`toc-chevron ${isCollapsed ? '' : 'toc-chevron-open'}`}>▾</span>
+      </button>
+      <div className={`toc-body ${isCollapsed ? 'toc-collapsed' : ''}`}>
+        <ul className="toc-list">
+          {headings.map((item) => (
+            <li
+              key={item.id}
+              className={`toc-item ${item.level === 'h3' ? 'toc-subitem' : ''} ${activeId === item.id ? 'toc-active' : ''}`}
+            >
+              <a href={`#${item.id}`} onClick={(e) => {
+                e.preventDefault();
+                document.getElementById(item.id)?.scrollIntoView({ behavior: 'smooth' });
+              }}>
+                {item.text}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
     </nav>
   );
 }

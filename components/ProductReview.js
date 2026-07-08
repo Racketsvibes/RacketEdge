@@ -1,25 +1,33 @@
 import React from 'react';
 
-export default function ProductReview({ 
-  name, 
-  brand, 
-  rating, 
-  image, 
-  specs = {}, 
-  pros = [], 
-  cons = [], 
-  affiliateUrl, 
+export default function ProductReview({
+  name,
+  brand,
+  rating,
+  image,
+  specs = {},
+  pros = [],
+  cons = [],
+  affiliateUrl,
   buttonText = "Check Price on Amazon",
-  description 
+  description
 }) {
+  const ratingPercent = rating ? (rating / 5) * 100 : 0;
+
   return (
     <div className="product-review-card">
       <div className="product-card-header">
-        <div className="product-brand-tag">{brand}</div>
-        <h3 className="product-card-title">{name}</h3>
+        <div>
+          <div className="product-brand-tag">{brand}</div>
+          <h3 className="product-card-title">{name}</h3>
+        </div>
         {rating && (
           <div className="product-rating-box">
-            <span className="rating-score">{rating}</span>
+            <span className="rating-score-large">{rating}</span>
+            <span className="rating-out-of">/5</span>
+            <div className="rating-bar">
+              <div className="rating-bar-fill" style={{ width: `${ratingPercent}%` }} />
+            </div>
             <span className="rating-stars">{"★".repeat(Math.round(rating)) + "☆".repeat(5 - Math.round(rating))}</span>
           </div>
         )}
@@ -36,7 +44,7 @@ export default function ProductReview({
 
         {Object.keys(specs).length > 0 && (
           <div className="product-specs-container">
-            <h4 className="specs-title">Key Specifications</h4>
+            <h4 className="specs-title">📋 Key Specifications</h4>
             <div className="specs-grid">
               {Object.entries(specs).map(([key, val]) => (
                 <div key={key} className="spec-item">
@@ -52,7 +60,7 @@ export default function ProductReview({
           <div className="pros-cons-container">
             {pros.length > 0 && (
               <div className="pros-box">
-                <h4 className="pros-box-title">Pros</h4>
+                <h4 className="pros-box-title">👍 Pros</h4>
                 <ul className="pros-list">
                   {pros.map((pro, i) => (
                     <li key={i}>{pro}</li>
@@ -62,7 +70,7 @@ export default function ProductReview({
             )}
             {cons.length > 0 && (
               <div className="cons-box">
-                <h4 className="cons-box-title">Cons</h4>
+                <h4 className="cons-box-title">👎 Cons</h4>
                 <ul className="cons-list">
                   {cons.map((con, i) => (
                     <li key={i}>{con}</li>
@@ -76,14 +84,13 @@ export default function ProductReview({
 
       {affiliateUrl && (
         <div className="product-card-footer">
-          <a 
-            href={affiliateUrl} 
-            target="_blank" 
-            rel="nofollow sponsored" 
+          <a
+            href={affiliateUrl}
+            target="_blank"
+            rel="nofollow sponsored"
             className="product-cta-btn"
           >
             {buttonText}
-            <span className="cta-icon-arrow">→</span>
           </a>
           <span className="footer-disclaimer">Prices accurate at time of writing. Check Amazon for current pricing.</span>
         </div>

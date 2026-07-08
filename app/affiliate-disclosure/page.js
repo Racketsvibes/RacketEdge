@@ -11,7 +11,7 @@ export const metadata = {
 export default function AffiliateDisclosurePage() {
   return (
     <div className="container">
-      <article style={{ padding: '48px 0' }}>
+      <article className="disclosure-page">
         <header className="page-header">
           <span className="category-badge">Transparency</span>
           <h1 className="page-title">Affiliate &amp; Advertising Disclosure</h1>
@@ -33,7 +33,7 @@ export default function AffiliateDisclosurePage() {
           </p>
           <h2>How Affiliate Links Impact Our Content</h2>
           <p>
-            Our product assessments are based entirely on Chris Davies' firsthand playing experience, spec comparisons, and collective community feedback. We never accept payment or free gear in exchange for a positive review. 
+            Our product assessments are based entirely on Chris Davies' firsthand playing experience, spec comparisons, and collective community feedback. We never accept payment or free gear in exchange for a positive review.
           </p>
           <p>
             If a racket has poor vibration dampening, low structural stability, or is not worth the price, we will state that clearly in the cons section of the review. Our primary loyalty is to you, the reader. Providing untrustworthy reviews would destroy our reputation and search authority, which violates our core values.
